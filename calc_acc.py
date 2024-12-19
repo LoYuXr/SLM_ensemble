@@ -12,7 +12,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 from transformers.generation import GenerationConfig
 import torch
 import os
-from loguru import logger
+# from loguru import logger
 from utils import *
 
 def extract_answer(s):
