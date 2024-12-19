@@ -25,7 +25,9 @@ huggingface-cli download --repo-type dataset --resume-download openai/gsm8k --lo
 
 Run model
 ```
-python run_gsm8k.py 
+python run_gsm8k.py # default
+python vote_gsm8k.py # voting
+python vote_gsm8k.py --perplexity True #least perplexity
 ```
 
 Test Acc
@@ -33,3 +35,5 @@ Test Acc
 python calc_acc.py -f "/vepfs/zekai/SLM_ensemble/gsm8k/fewshot"
 ```
 Naive Fewshot: 46.63
+Voting: 52.84
+Perplexity: 42.21
