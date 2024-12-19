@@ -35,5 +35,7 @@ Test Acc
 python calc_acc.py -f "/vepfs/zekai/SLM_ensemble/gsm8k/fewshot"
 ```
 Naive Fewshot: 46.63
+
 Voting: 52.84
-Perplexity: 42.21
+
+Perplexity: 42.15
