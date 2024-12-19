@@ -1,0 +1,5 @@
+{
+    "question": "Last year there were 50 students enrolled in a calligraphy class. This year, there was a 20% increase in enrollment. How many students are enrolled this year in the calligraphy class?",
+    "completion": "To determine the number of students enrolled in the calligraphy class this year, we need to calculate a 20% increase from the original enrollment of 50 students.\n\nFirst, we calculate 20% of 50:\n\\[ 20\\% \\text{ of } 50 = 0.20 \\times 50 = 10 \\]\n\nNext, we add this increase to the original enrollment to find the total number of students this year:\n\\[ 50 + 10 = 60 \\]\n\nTherefore, the number of students enrolled in the calligraphy class this year is \\(\\boxed{60}\\).",
+    "answer": "There was an increase of 50 x 20/100 = <<50*20/100=10>>10 students in enrollment.\nSo, there is a total of 50 + 10 = <<50+10=60>>60 students who were enrolled this year.\n#### 60"
+}

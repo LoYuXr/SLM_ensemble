@@ -1,0 +1,5 @@
+{
+    "question": "Steve is 60 years old. His wife is 4 years older than him. Their son is currently half as old as his mom and their son's wife is 3 years younger than her husband. How old is Steve's son's wife?",
+    "completion": "To determine the age of Steve's son's wife, we need to follow the information given step by step.\n\n1. **Steve's Age**: Steve is 60 years old.\n2. **Steve's Wife's Age**: Steve's wife is 4 years older than Steve. Therefore, her age is:\n   \\[\n   60 + 4 = 64 \\text{ years old}\n   \\]\n3. **Son's Age**: The son is currently half as old as his mom. Since the mom is 64 years old, the son's age is:\n   \\[\n   \\frac{64}{2} = 32 \\text{ years old}\n   \\]\n4. **Son's Wife's Age**: The son's wife is 3 years younger than her husband. Since the husband is 64 years old, the wife's age is:\n   \\[\n   64 - 3 = 61 \\text{ years old}\n   \\]\n\nThus, the age of Steve's son's wife is \\(\\boxed{61}\\).",
+    "answer": "Steve's wife is 60+4=<<60+4=64>>64 years old.\nSteve's son is 64/2=<<64/2=32>>32 years old.\nHis wife is 32-3=<<32-3=29>>29 years old.\n#### 29"
+}

@@ -1,0 +1,5 @@
+{
+    "question": "Samantha has 12 fewer paintings than Shelley, and Shelley has 8 paintings more than Kim. If Samantha has 27 paintings, how many paintings does Kim have?",
+    "completion": "To determine how many paintings Kim has, we need to follow the relationships given in the problem step by step.\n\n1. **Identify the number of paintings Shelley has:**\n   - Samantha has 12 fewer paintings than Shelley.\n   - Samantha has 27 paintings.\n   - Therefore, Shelley has \\(27 + 12 = 39\\) paintings.\n\n2. **Identify the number of paintings Kim has:**\n   - Shelley has 8 more paintings than Kim.\n   - Therefore, Kim has \\(39 - 8 = 31\\) paintings.\n\nSo, the number of paintings Kim has is \\(\\boxed{31}\\).",
+    "answer": "Shelley has 27+12=<<27+12=39>>39 paintings.\nKim has 39-8=<<39-8=31>>31 paintings.\n#### 31"
+}

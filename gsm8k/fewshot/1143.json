@@ -1,0 +1,5 @@
+{
+    "question": "Tim grows 5 trees.  Each year he collects 6 lemons from each tree.  How many lemons does he get in a decade?",
+    "completion": "To determine how many lemons Tim gets in a decade, we need to follow these steps:\n\n1. Calculate the number of trees Tim grows in a decade.\n2. Determine the total number of lemons collected from these trees.\n\nFirst, let's find out how many trees Tim grows in a decade. A decade is 10 years, so the number of trees he grows is:\n\\[ 10 \\text{ trees} \\]\n\nNext, we need to find out how many lemons Tim collects from each tree. According to the problem, he collects 6 lemons from each tree. Therefore, the total number of lemons he collects from all the trees is:\n\\[ 10 \\text{ trees} \\times 6 \\text{ lemons/tree} = 60 \\text{ lemons} \\]\n\nSo, the total number of lemons Tim gets in a decade is:\n\\[ \\boxed{60} \\]",
+    "answer": "He gets 5*6=<<5*6=30>>30 lemons per year\nSo he gets 30*10=<<30*10=300>>300 lemons in a decade\n#### 300"
+}

@@ -1,0 +1,5 @@
+{
+    "question": "Marissa bought a ball at the store for $20. If she had $80 on her and used the rest of the money to buy her brother Jimmy, candy bars sold at $5 each, how many candy bars did Marissa buy for Jimmy?",
+    "completion": "To determine how many candy bars Marissa bought for Jimmy, we need to follow these steps:\n\n1. **Calculate the remaining money after buying the ball:**\n   Marissa initially had $80 and spent $20 on a ball.\n   \\[\n   \\text{Remaining money} = 80 - 20 = 60\n   \\]\n\n2. **Determine how many candy bars Marissa can buy with the remaining money:**\n   Each candy bar costs $5.\n   \\[\n   \\text{Number of candy bars} = \\frac{\\text{Remaining money}}{\\text{Cost per candy bar}} = \\frac{60}{5} = 12\n   \\]\n\nTherefore, Marissa bought \\(\\boxed{12}\\) candy bars for Jimmy.",
+    "answer": "If Marissa had $80 on her and used $20 to buy a ball, she remained with $80-$20=$<<80-20=60>>60\nIf she used the rest of the money to buy candy bars for her brother sold ad $5 each, she bought $60/$5=<<60/5=12>>12 candy bars.\n#### 12"
+}

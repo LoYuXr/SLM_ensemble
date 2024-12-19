@@ -1,0 +1,5 @@
+{
+    "question": "Kyle bought last year's best-selling book for $19.50. This is with a 25% discount from the original price. What was the original price of the book?",
+    "completion": "To find the original price of the book before the discount, we need to work backwards from the final price Kyle paid. The final price is the original price minus the 25% discount.\n\nLet's denote the original price by \\( P \\).\n\nThe discount is 25%, so the price after the discount is 75% of the original price. This can be expressed as:\n\\[ P - 0.25P = 0.75P \\]\n\nWe know that the final price Kyle paid is $19.50, so we can set up the equation:\n\\[ 0.75P = 19.50 \\]\n\nTo find \\( P \\), we need to solve for \\( P \\) by dividing both sides of the equation by 0.75:\n\\[ P = \\frac{19.50}{0.75} \\]\n\nNow, we perform the division:\n\\[ P = \\frac{19.50}{0.75} = 26 \\]\n\nTherefore, the original price of the book was \\(\\boxed{26}\\).",
+    "answer": "Let X be the original price of the book. The discounted price is X - X*25% = $19.50.\nCombining like terms, we get .75X = $19.50\nDividing both sides by .75, we get X = $26.\n#### 26"
+}

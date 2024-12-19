@@ -1,0 +1,5 @@
+{
+    "question": "Jamaal is at the gym. He has been using an 8-pound weight. He increases the weight that he uses by 50%. It turns out to be too heavy, so he uses a weight two pounds lighter than that. What is the weight, in pounds, that he now uses?",
+    "completion": "To determine the weight that Jamaal now uses, we need to follow these steps:\n\n1. **Calculate the new weight after increasing by 50%:**\n   The original weight is 8 pounds. Increasing it by 50% means we add 50% of 8 pounds to the original weight.\n   \\[\n   \\text{Increase} = 0.50 \\times 8 = 4 \\text{ pounds}\n   \\]\n   \\[\n   \\text{New weight} = 8 + 4 = 12 \\text{ pounds}\n   \\]\n\n2. **Calculate the new weight after decreasing by 2 pounds:**\n   The new weight is now 12 pounds. Decreasing it by 2 pounds means we subtract 2 pounds from the new weight.\n   \\[\n   \\text{Decrease} = 12 - 2 = 10 \\text{ pounds}\n   \\]\n   \\[\n   \\text{Final weight} = 12 - 10 = 2 \\text{ pounds}\n   \\]\n\nTherefore, the weight that Jamaal now uses is \\(\\boxed{2}\\) pounds.",
+    "answer": "An increase of 50% of 8 is 1.5*8=12.\nHe switches to a 12-2=<<12-2=10>>10 pound weight.\n#### 10"
+}

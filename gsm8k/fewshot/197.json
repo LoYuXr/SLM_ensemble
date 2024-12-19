@@ -1,0 +1,5 @@
+{
+    "question": "In the city of Soda, there are exactly 23786 inhabitants. They include 8417 men and 9092 women. The rest of the population is made up of children. How many kids are there in Soda?",
+    "completion": "To determine the number of children in Soda, we need to follow these steps:\n\n1. **Calculate the total number of inhabitants excluding children:**\n   - Total inhabitants = 23786\n   - Number of men = 8417\n   - Number of women = 9092\n\n   Total inhabitants excluding children = 8417 + 9092 = 17509\n\n2. **Determine the number of children:**\n   - Total inhabitants = 23786\n   - Total inhabitants excluding children = 17509\n\n   Number of children = Total inhabitants - Total inhabitants excluding children\n   Number of children = 23786 - 17509 = 6277\n\nTherefore, the number of children in Soda is \\(\\boxed{6277}\\).",
+    "answer": "The total number of adults is 8417 + 9092 = <<8417+9092=17509>>17509\nThus the number of children is 23786 - 17509 = <<23786-17509=6277>>6277\n#### 6277"
+}

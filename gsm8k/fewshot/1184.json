@@ -1,0 +1,5 @@
+{
+    "question": "To heat during the winter, Ali ordered 850 kilos of coal. The coal is delivered in 50 kg bags, costing $18 per unit. How much does his order cost?",
+    "completion": "To determine the cost of the coal Ali ordered, we need to follow these steps:\n\n1. Calculate the number of 50 kg bags needed to deliver 850 kilos of coal.\n2. Determine the total cost of the bags.\n\nFirst, we find out how many 50 kg bags are needed to deliver 850 kilos of coal. We do this by dividing the total amount of coal by the weight of each bag:\n\n\\[\n\\text{Number of bags} = \\frac{850 \\text{ kg}}{50 \\text{ kg/bag}} = 17 \\text{ bags}\n\\]\n\nNext, we calculate the total cost of these 17 bags. Each bag costs $18, so we multiply the number of bags by the cost per bag:\n\n\\[\n\\text{Total cost} = 17 \\text{ bags} \\times 18 \\text{ dollars/bag} = 306 \\text{ dollars}\n\\]\n\nTherefore, the cost of Ali's order is \\(\\boxed{306}\\) dollars.",
+    "answer": "The number of bags Ali ordered is 850 kg/ 50 kg/bag = <<850/50=17>>17 bags\nThe total order cost is 17 bags x $18/bag = $<<17*18=306>>306\n#### 306"
+}

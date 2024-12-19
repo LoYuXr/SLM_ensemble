@@ -1,0 +1,5 @@
+{
+    "question": "Dan plants 3 rose bushes. Each rose bush has 25 roses. Each rose has 8 thorns. How many thorns are there total?",
+    "completion": "To determine the total number of thorns on the rose bushes, we need to follow these steps:\n\n1. Calculate the total number of roses.\n2. Determine the total number of thorns based on the number of roses.\n\nFirst, we calculate the total number of roses. Since there are 3 rose bushes and each bush has 25 roses, we multiply the number of bushes by the number of roses per bush:\n\n\\[ 3 \\text{ bushes} \\times 25 \\text{ roses per bush} = 75 \\text{ roses} \\]\n\nNext, we calculate the total number of thorns. Since each rose has 8 thorns, we multiply the total number of roses by the number of thorns per rose:\n\n\\[ 75 \\text{ roses} \\times 8 \\text{ thorns per rose} = 600 \\text{ thorns} \\]\n\nTherefore, the total number of thorns is \\(\\boxed{600}\\).",
+    "answer": "First find the total number of roses: 3 bushes * 25 roses/bush = <<3*25=75>>75 roses\nThen multiply the number of roses by the number of thorns per rose: 75 roses * 8 thorns/rose = <<75*8=600>>600 thorns\n#### 600"
+}

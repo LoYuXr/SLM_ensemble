@@ -1,0 +1,5 @@
+{
+    "question": "Jean has 30 lollipops. Jean eats 2 of the lollipops. With the remaining lollipops, Jean wants to package 2 lollipops in one bag. How many bags can Jean fill?",
+    "completion": "To determine how many bags Jean can fill with the remaining lollipops, we need to follow these steps:\n\n1. **Calculate the number of lollipops remaining after Jean eats 2:**\n   Jean starts with 30 lollipops and eats 2 of them.\n   \\[\n   30 - 2 = 28\n   \\]\n   So, Jean has 28 lollipops left.\n\n2. **Determine how many bags can be filled with the remaining lollipops:**\n   Each bag contains 2 lollipops. To find out how many bags Jean can fill, we divide the number of remaining lollipops by the number of lollipops per bag.\n   \\[\n   \\frac{28}{2} = 14\n   \\]\n   So, Jean can fill 14 bags with the remaining lollipops.\n\nThe final answer is:\n\\[\n\\boxed{14}\n\\]",
+    "answer": "Jean has 30 - 2 = <<30-2=28>>28 lollipops\nJean can fill up 28 / 2 = <<28/2=14>>14 bags with lollipops\n#### 14"
+}

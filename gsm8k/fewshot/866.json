@@ -1,0 +1,5 @@
+{
+    "question": "Together, Sofie, Anne, and Fawn have 85 books. If Sofie has 25 more books than Anne, and Anne has 12 fewer books than Fawn does, how many books does Fawn have?",
+    "completion": "Let's denote the number of books Fawn has as \\( F \\). According to the problem, Anne has 12 fewer books than Fawn, so Anne has \\( F - 12 \\) books. Similarly, Sofie has 25 more books than Anne, so Sofie has \\( (F - 12) + 25 = F + 13 \\) books.\n\nThe total number of books they have together is 85. Therefore, we can write the equation:\n\\[\nF + (F - 12) + (F + 13) = 85\n\\]\n\nSimplifying the left side of the equation, we get:\n\\[\nF + F - 12 + F + 13 = 85\n\\]\n\\[\n3F + 1 = 85\n\\]\n\nNext, we isolate \\( F \\) by subtracting 1 from both sides of the equation:\n\\[\n3F = 84\n\\]\n\nThen, we solve for \\( F \\) by dividing both sides by 3:\n\\[\nF = 28\n\\]\n\nSo, Fawn has \\(\\boxed{28}\\) books.",
+    "answer": "Let x = the number of books Anne has.\nThen x + 25 + x + 12 + x = 85\n3x + 37 = 85\n3x = 48\nx = 48 / 3 = <<48/3=16>>16 books\nAnne has 12 fewer books than Fawn, so Fawn has 16 + 12 = 28 books.\n#### 28"
+}

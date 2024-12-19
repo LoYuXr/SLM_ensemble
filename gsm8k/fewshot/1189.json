@@ -1,0 +1,5 @@
+{
+    "question": "Doxa sliced an apple into 8 pieces. She ate 1 slice, her sister ate 1 more than her, and her brother ate 1 more than her sister. How many slices of apple did they all eat?",
+    "completion": "To determine how many slices of apple the three friends ate, we need to follow these steps:\n\n1. **Doxa's Slice**: The problem states that Doxa sliced an apple into 8 pieces.\n2. **Her Sister's Slice**: Her sister ate 1 slice.\n3. **Her Brother's Slice**: Her brother ate 1 slice more than her sister. Since her sister ate 1 slice, her brother ate \\(1 + 1 = 2\\) slices.\n\nNow, we add up the slices eaten by each friend:\n- Doxa's slice: 1 slice\n- Her sister's slice: 1 slice\n- Her brother's slice: 2 slices\n\nAdding these together:\n\\[1 + 1 + 2 = 4\\]\n\nTherefore, the total number of slices of apple they all ate is \\(\\boxed{4}\\).",
+    "answer": "Her sister ate 1 + 1 = <<1+1=2>>2 slices.\nHer brother ate 2 + 1 = <<2+1=3>>3 slices.\nThey ate a total of 1 + 2 + 3 = <<1+2+3=6>>6 slices.\n#### 6"
+}

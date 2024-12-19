@@ -1,0 +1,5 @@
+{
+    "question": "Gerald works at a daycare that pays him $30 every day. He worked for an entire week and spent a total of $100. How much does he have left?",
+    "completion": "To determine how much Gerald has left after working for a week and spending a total of $100, we can follow these steps:\n\n1. Calculate the total amount Gerald earned in a week.\n2. Subtract the total amount spent from the total amount earned.\n\nFirst, we calculate the total amount Gerald earned in a week. Since he works 7 days a week and earns $30 per day, we multiply the daily wage by the number of days in a week:\n\\[ 30 \\text{ dollars/day} \\times 7 \\text{ days/week} = 210 \\text{ dollars/week} \\]\n\nNext, we subtract the total amount spent from the total amount earned. Gerald spent $100, so we subtract $100 from $210:\n\\[ 210 \\text{ dollars/week} - 100 \\text{ dollars} = 110 \\text{ dollars} \\]\n\nTherefore, the amount of money Gerald has left is:\n\\[ \\boxed{110} \\]",
+    "answer": "He earns $30 daily for a week (7 days) for a total earnings of $30*7 = $<<30*7=210>>210\nHe spent $100 leaving him with $210-$100 = $110\n#### 110"
+}

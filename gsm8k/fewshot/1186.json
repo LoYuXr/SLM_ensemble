@@ -1,0 +1,5 @@
+{
+    "question": "Sam ran 3 miles on Monday, Wednesday and Friday.  On Tuesday and Thursday, Sam ran 5 miles.  How many miles did Sam run this week?",
+    "completion": "To determine the total number of miles Sam ran this week, we need to add up the miles he ran each day. Let's break it down step by step:\n\n1. Sam ran 3 miles on Monday, Wednesday, and Friday.\n2. Sam ran 5 miles on Tuesday and Thursday.\n\nFirst, we add the miles run on Monday, Wednesday, and Friday:\n\\[ 3 \\text{ miles} + 3 \\text{ miles} + 3 \\text{ miles} = 9 \\text{ miles} \\]\n\nNext, we add the miles run on Tuesday and Thursday:\n\\[ 5 \\text{ miles} + 5 \\text{ miles} = 10 \\text{ miles} \\]\n\nNow, we add the miles from both days together:\n\\[ 9 \\text{ miles} + 10 \\text{ miles} = 19 \\text{ miles} \\]\n\nTherefore, the total number of miles Sam ran this week is \\(\\boxed{19}\\).",
+    "answer": "On Monday, Wednesday and Friday, Mike ran 3 * 3 = <<3*3=9>>9 miles\nOn Tuesday and Thursday, he ran 5 * 2 = <<5*2=10>>10 miles\nDuring the 5 days together, he ran a total of 10 + 9 = <<10+9=19>>19 miles\n#### 19"
+}

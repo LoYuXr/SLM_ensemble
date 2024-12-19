@@ -1,0 +1,5 @@
+{
+    "question": "Johnny took his allowance of $20 and added an extra $10 to it.  He then invested this sum of money, which tripled in a year.  How much money did he have after a year?",
+    "completion": "To determine how much money Johnny had after a year, we need to follow these steps:\n\n1. **Initial Amount**: Johnny started with $20.\n2. **Additional Amount**: He added an extra $10 to his initial amount.\n   \\[\n   20 + 10 = 30\n   \\]\n   So, after adding the extra $10, Johnny has $30.\n3. **Investment**: The investment tripled in a year. Therefore, we need to calculate the amount after the investment.\n   \\[\n   30 \\times 3 = 90\n   \\]\n   So, after the investment, Johnny has $90.\n\nThus, the amount of money Johnny had after a year is \\(\\boxed{90}\\).",
+    "answer": "Johnny invested twenty and ten dollars for a total of 20+10=<<20+10=30>>30 dollars invested\nJohnny tripled this amount of money over the year, for a total of 30*=90 dollars\n#### 90"
+}

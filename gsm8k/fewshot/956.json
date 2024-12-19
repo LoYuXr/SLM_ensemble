@@ -1,0 +1,5 @@
+{
+    "question": "Robyn sends sixteen emails a day. Seven are work emails, and two-thirds of the remainder are to family. One-third of the other emails are to her boyfriend. How many emails a day does she send to her boyfriend?",
+    "completion": "To determine how many emails Robyn sends to her boyfriend each day, we need to follow these steps:\n\n1. **Calculate the number of emails to family:**\n   Robyn has 16 emails in total and 7 of them are work emails. Therefore, the number of emails to family is:\n   \\[\n   16 - 7 = 9\n   \\]\n\n2. **Calculate the number of emails to her boyfriend:**\n   Robyn has 9 emails to family, and one-third of these emails are to her boyfriend. Therefore, the number of emails to her boyfriend is:\n   \\[\n   \\frac{1}{3} \\times 9 = 3\n   \\]\n\nThus, Robyn sends \\(\\boxed{3}\\) emails to her boyfriend each day.",
+    "answer": "Robyn sends 16 - 7 = <<16-7=9>>9 non-work emails.\nShe sends 9 * 2 / 3 = <<9*2/3=6>>6 emails to family.\nThere are 9 - 6 = <<9-6=3>>3 emails remaining.\nOf the remaining 3, 1/3 are to her boyfriend, so Robyn sends him 3 * 1 / 3 = <<3*1/3=1>>1 email a day.\n#### 1"
+}

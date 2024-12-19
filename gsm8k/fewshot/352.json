@@ -1,0 +1,5 @@
+{
+    "question": "After Andrea saved some money, she then spent the rest of her money on an $11 sweater and gave her brother $4. If she had $36 in the beginning, how much did Andrea save?",
+    "completion": "To determine how much Andrea saved, we need to follow these steps:\n\n1. Identify the initial amount of money Andrea had.\n2. Determine how much money she spent on the sweater.\n3. Calculate the remaining amount of money after the sweater purchase.\n4. Subtract the amount given to her brother from the remaining amount to find out how much she saved.\n\nLet's go through these steps in detail:\n\n1. The initial amount of money Andrea had is $36.\n2. The sweater cost $11, so the amount of money she spent on the sweater is $11.\n3. After buying the sweater, the remaining amount of money is $36 - $11 = $25.\n4. Andrea gave $4 to her brother, so the amount of money she saved is $25 - $4 = $21.\n\nTherefore, the amount Andrea saved is \\(\\boxed{21}\\).",
+    "answer": "Andrea spent and gave her brother a total of $11 + $4 = $<<11+4=15>>15.\nSo, she saved $36 - $15 = $<<36-15=21>>21.\n#### 21"
+}

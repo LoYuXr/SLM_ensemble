@@ -1,0 +1,5 @@
+{
+    "question": "Peter purchased 20 popsicles at $0.25 each. He also purchased 4 ice cream bars at $0.50 each. How much did he pay in total in dollars?",
+    "completion": "To determine the total amount Peter paid, we need to calculate the cost of the popsicles and the ice cream bars separately, and then sum these amounts.\n\nFirst, let's calculate the cost of the popsicles:\nPeter purchased 20 popsicles, and each popsicle costs $0.25.\n\\[\n\\text{Cost of popsicles} = 20 \\times 0.25 = 5 \\text{ dollars}\n\\]\n\nNext, let's calculate the cost of the ice cream bars:\nPeter purchased 4 ice cream bars, and each ice cream bar costs $0.50.\n\\[\n\\text{Cost of ice cream bars} = 4 \\times 0.50 = 2 \\text{ dollars}\n\\]\n\nNow, we add the cost of the popsicles and the cost of the ice cream bars to find the total amount Peter paid:\n\\[\n\\text{Total amount paid} = 5 + 2 = 7 \\text{ dollars}\n\\]\n\nTherefore, the total amount Peter paid is \\(\\boxed{7}\\) dollars.",
+    "answer": "The popsicles cost 0.25*20=<<0.25*20=5>>5 dollars.\nThe ice cream bars cost 0.5*4=<<0.5*4=2>>2 dollars.\nHe paid 5+2=<<5+2=7>>7 dollars.\n#### 7"
+}

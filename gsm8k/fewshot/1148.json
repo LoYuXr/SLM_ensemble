@@ -1,0 +1,5 @@
+{
+    "question": "Chatty prepared three dozen eggs for her four children's Easter activity. Assuming each child gets the same number of eggs, how many eggs does each child receive?",
+    "completion": "To determine how many eggs each child receives, we need to follow these steps:\n\n1. Calculate the total number of eggs available.\n2. Divide the total number of eggs by the number of children.\n\nFirst, we know that there are 3 dozen eggs. Since one dozen is equal to 12 eggs, we can calculate the total number of eggs as follows:\n\\[ 3 \\text{ dozen} = 3 \\times 12 = 36 \\text{ eggs} \\]\n\nNext, we need to divide the total number of eggs by the number of children. There are 4 children, so we divide 36 eggs by 4 children:\n\\[ 36 \\div 4 = 9 \\]\n\nTherefore, each child receives \\(\\boxed{9}\\) eggs.",
+    "answer": "Chatty prepared 3 dozen x 12 eggs/dozen = <<3*12=36>>36 eggs.\nSince all four children receive the same number of eggs, each child gets 36 eggs / 4 children = <<36/4=9>>9 eggs/child\n#### 9"
+}

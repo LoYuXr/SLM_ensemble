@@ -1,0 +1,5 @@
+{
+    "question": "A tank of water has a depth of 17 feet on Monday. On Tuesday, the tank had 7 feet more water. On Wednesday, the depth of the water is two thirds of what it was on Tuesday. What is the tank\u2019s water depth on Wednesday?",
+    "completion": "To determine the tank's water depth on Wednesday, we need to follow the given information step by step.\n\n1. **Initial Depth on Monday:**\n   The tank has a depth of 17 feet on Monday.\n\n2. **Depth on Tuesday:**\n   On Tuesday, the tank had 7 feet more water than on Monday. Therefore, the depth on Tuesday is:\n   \\[\n   17 \\text{ feet} + 7 \\text{ feet} = 24 \\text{ feet}\n   \\]\n\n3. **Depth on Wednesday:**\n   On Wednesday, the depth of the water is two thirds of what it was on Tuesday. Therefore, the depth on Wednesday is:\n   \\[\n   \\frac{2}{3} \\times 24 \\text{ feet} = 16 \\text{ feet}\n   \\]\n\nThus, the tank's water depth on Wednesday is \\(\\boxed{16}\\) feet.",
+    "answer": "On Tuesday there was 17+7 = <<17+7=24>>24 feet of water in the tank.\n24/3 = 8. On Wednesday there was 2*8 = 16 feet of water in the tank.\n#### 16"
+}

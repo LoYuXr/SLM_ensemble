@@ -1,0 +1,5 @@
+{
+    "question": "Steve put together a puzzle that took 10 hours of hard work to complete. Anna put together the same puzzle in 2 hours more than half Steve's time. How long did it take Anna to finish the difficult puzzle?",
+    "completion": "To determine how long it took Anna to finish the puzzle, we need to follow these steps:\n\n1. **Calculate Steve's time to complete the puzzle:**\n   Steve took 10 hours to complete the puzzle.\n\n2. **Determine Anna's time to complete the puzzle:**\n   Anna took 2 hours more than half of Steve's time. First, we calculate half of Steve's time:\n   \\[\n   \\frac{10 \\text{ hours}}{2} = 5 \\text{ hours}\n   \\]\n   Then, we add 2 hours to this value to find Anna's time:\n   \\[\n   5 \\text{ hours} + 2 \\text{ hours} = 7 \\text{ hours}\n   \\]\n\nTherefore, it took Anna \\(\\boxed{7}\\) hours to finish the puzzle.",
+    "answer": "Half the time it took Steve to put together the puzzle is 10/2=<<10/2=5>>5\nIf Anna put together the same puzzle in 2 hours more than half the time it took Steve, she took 5+2=7 hours to finish the puzzle.\n#### 7"
+}

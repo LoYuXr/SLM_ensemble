@@ -1,0 +1,5 @@
+{
+    "question": "15 gallons of gas were equally divided into 5 different containers. Josey needed 1/4 of a container to run her lawnmower. How many pints of gasoline did Josey need?",
+    "completion": "To determine how many pints of gasoline Josey needed, we need to follow these steps:\n\n1. **Calculate the amount of gas in each container:**\n   - Total gallons of gas: 15 gallons\n   - Containers: 5\n   - Gas in each container: \\( \\frac{15}{5} = 3 \\) gallons\n\n2. **Determine how much gas Josey used:**\n   - Josey used \\( \\frac{1}{4} \\) of a container.\n   - Gas used: \\( \\frac{1}{4} \\times 3 = \\frac{3}{4} \\) gallons\n\n3. **Convert the amount of gas used from gallons to pints:**\n   - There are 8 pints in a gallon.\n   - Gas used in pints: \\( \\frac{3}{4} \\times 8 = 6 \\) pints\n\nTherefore, Josey needed \\(\\boxed{6}\\) pints of gasoline.",
+    "answer": "15 gallons = 120 pints\n120/5 = <<120/5=24>>24 pints per container\n(1/4)24 = 6 pints\nJosey needed 6 pints of gas for her lawnmower.\n#### 6"
+}

@@ -1,0 +1,5 @@
+{
+    "question": "Sarah has 9 books and Joseph had twice the number of Sarah\u2019s books, but he lost 2 of them. How many books does Joseph currently have?",
+    "completion": "To determine how many books Joseph currently has, we need to follow these steps:\n\n1. Identify the number of books Sarah has.\n2. Calculate the number of books Joseph had initially.\n3. Subtract the number of books Joseph lost from his initial number of books.\n\nFirst, we know that Sarah has 9 books. According to the problem, Joseph had twice the number of books that Sarah had. Therefore, we can calculate the number of books Joseph had initially as follows:\n\\[ \\text{Number of books Joseph had initially} = 2 \\times 9 = 18 \\]\n\nNext, we know that Joseph lost 2 of his books. So, we subtract 2 from his initial number of books:\n\\[ \\text{Number of books Joseph currently has} = 18 - 2 = 16 \\]\n\nThus, the number of books Joseph currently has is \\(\\boxed{16}\\).",
+    "answer": "Joseph used to have 9 books * 2 = <<9*2=18>>18 books.\nAfter he lost 2 books he remained with 18 books \u2013 2 books = <<18-2=16>>16 books.\n#### 16"
+}

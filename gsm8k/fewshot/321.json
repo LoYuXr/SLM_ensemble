@@ -1,0 +1,5 @@
+{
+    "question": "A magazine costs half as much as a book. The book costs $4. A pen costs $1 less than a magazine. How much is the pen?",
+    "completion": "To determine the cost of the pen, we need to follow these steps:\n\n1. **Find the cost of the magazine:**\n   - We know that the book costs $4.\n   - The magazine costs half as much as the book.\n   - Therefore, the cost of the magazine is:\n     \\[\n     \\text{Cost of the magazine} = \\frac{\\text{Cost of the book}}{2} = \\frac{4}{2} = 2\n     \\]\n\n2. **Find the cost of the pen:**\n   - The pen costs $1 less than the magazine.\n   - Therefore, the cost of the pen is:\n     \\[\n     \\text{Cost of the pen} = \\text{Cost of the magazine} - 1 = 2 - 1 = 1\n     \\]\n\nThus, the cost of the pen is \\(\\boxed{1}\\).",
+    "answer": "The cost of a magazine is $4/2 = $<<4/2=2>>2.\nThe cost of a pen is $2 - $1 = $<<2-1=1>>1.\n#### 1"
+}

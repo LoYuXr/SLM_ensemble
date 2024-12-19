@@ -1,0 +1,5 @@
+{
+    "question": "Geb is 10 less than half the age of Haley. If Haley is 26 years old, how old is Geb?",
+    "completion": "To determine Geb's age, we start by identifying the relationship between Geb's age and Haley's age. According to the problem, Geb is 10 less than half the age of Haley.\n\nFirst, we calculate half of Haley's age:\n\\[\n\\text{Half of Haley's age} = \\frac{26}{2} = 13\n\\]\n\nNext, we find 10 less than this half:\n\\[\n\\text{Geb's age} = 13 - 10 = 3\n\\]\n\nThus, Geb is \\boxed{3} years old.",
+    "answer": "Half of Haley's age is 26/2 = <<26/2=13>>13.\nSo Geb is 13 - 10 = <<13-10=3>>3 years old.\n#### 3"
+}

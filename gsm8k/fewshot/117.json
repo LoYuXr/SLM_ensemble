@@ -1,0 +1,5 @@
+{
+    "question": "John buys 2 pairs of shoes for each of his 3 children.  They cost $60 each.  How much did he pay?",
+    "completion": "To determine how much John paid for the shoes, we need to follow these steps:\n\n1. Calculate the total number of pairs of shoes John buys.\n2. Determine the total cost of the shoes.\n\nFirst, let's find the total number of pairs of shoes John buys. Since he buys 2 pairs of shoes for each of his 3 children, we multiply the number of pairs per child by the number of children:\n\n\\[ 2 \\text{ pairs/child} \\times 3 \\text{ children} = 6 \\text{ pairs} \\]\n\nNext, we need to find the total cost of these 6 pairs of shoes. Each pair of shoes costs $60, so we multiply the number of pairs by the cost per pair:\n\n\\[ 6 \\text{ pairs} \\times 60 \\text{ dollars/pair} = 360 \\text{ dollars} \\]\n\nTherefore, the total amount John paid is:\n\n\\[\n\\boxed{360}\n\\]",
+    "answer": "He bought 3*2=<<3*2=6>>6 pairs of shoes\nSo he spent 60*6=$<<60*6=360>>360\n#### 360"
+}

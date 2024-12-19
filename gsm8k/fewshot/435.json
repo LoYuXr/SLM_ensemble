@@ -1,0 +1,5 @@
+{
+    "question": "Ray had 25 lollipops. He kept 5 lollipops and shared the remaining equally with his four friends. How many lollipops did each of his friends receive?",
+    "completion": "To determine how many lollipops each of Ray's friends received, we can follow these steps:\n\n1. **Calculate the number of lollipops left after Ray keeps some:**\n   Ray started with 25 lollipops and kept 5 for himself. So, the number of lollipops left is:\n   \\[\n   25 - 5 = 20\n   \\]\n\n2. **Determine how many friends Ray shared the lollipops with:**\n   Ray has four friends, so he shared the lollipops with them.\n\n3. **Calculate the number of lollipops each friend received:**\n   To find out how many lollipops each friend received, we divide the number of lollipops left by the number of friends:\n   \\[\n   \\frac{20}{4} = 5\n   \\]\n\nSo, each of Ray's friends received \\(\\boxed{5}\\) lollipops.",
+    "answer": "Ray shared a total of 25 - 5 = <<25-5=20>>20 lollipops.\nTherefore, each of his friends received 20/4 = <<20/4=5>>5 lollipops.\n#### 5"
+}

@@ -1,0 +1,5 @@
+{
+    "question": "Carver just turned 45 years old, which makes him 5 years less than twice the age of his son.  How old is his son, in years?",
+    "completion": "Let's denote the age of Carver's son as \\( x \\) years. According to the problem, Carver is 5 years less than twice the age of his son. This can be expressed with the following equation:\n\n\\[ 2x - 5 = 45 \\]\n\nTo find the value of \\( x \\), we need to solve this equation step by step.\n\nFirst, add 5 to both sides of the equation to isolate the term with \\( x \\):\n\n\\[ 2x - 5 + 5 = 45 + 5 \\]\n\\[ 2x = 50 \\]\n\nNext, divide both sides by 2 to solve for \\( x \\):\n\n\\[ \\frac{2x}{2} = \\frac{50}{2} \\]\n\\[ x = 25 \\]\n\nSo, the age of Carver's son is \\( 25 \\) years.",
+    "answer": "Let x be the age of Carver's son.\nSince Carver's age (45) is 5 years less than twice the age of his son, then 45=(2*x)-5.\nAdd 5 to each side of the equation and we get 50=2*x.\nThus, the age of Carver's son is x=25 years old.\n#### 25"
+}

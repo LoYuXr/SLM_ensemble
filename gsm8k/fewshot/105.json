@@ -1,0 +1,5 @@
+{
+    "question": "Cody eats three times as many cookies as Amir eats. If Amir eats 5 cookies,\u00a0how many cookies do both of them eat together?",
+    "completion": "To determine how many cookies Cody and Amir eat together, we start by identifying the number of cookies each person eats based on the information given.\n\n1. We know that Amir eats 5 cookies.\n2. Cody eats three times as many cookies as Amir. Therefore, we calculate the number of cookies Cody eats as follows:\n   \\[\n   \\text{Number of cookies Cody eats} = 3 \\times \\text{Number of cookies Amir eats} = 3 \\times 5 = 15\n   \\]\n\n3. To find the total number of cookies eaten by both Cody and Amir together, we add the number of cookies each of them eats:\n   \\[\n   \\text{Total number of cookies} = \\text{Number of cookies Amir eats} + \\text{Number of cookies Cody eats} = 5 + 15 = 20\n   \\]\n\nThus, the total number of cookies eaten by both Cody and Amir together is \\boxed{20}.",
+    "answer": "Cody eats 5*3 = <<5*3=15>>15 cookies.\nCody and Amir eat 15+5 = <<15+5=20>>20 cookies together.\n#### 20"
+}

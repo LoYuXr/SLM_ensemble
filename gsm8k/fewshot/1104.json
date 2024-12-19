@@ -1,0 +1,5 @@
+{
+    "question": "Caroline is three times older than Ben. Ben is two times older than Chris. If Chris is 4, how old is Caroline?",
+    "completion": "To determine Caroline's age, we need to follow the relationships given in the problem step by step.\n\n1. **Identify Chris's age:**\n   Chris is given as 4 years old.\n\n2. **Determine Ben's age:**\n   Ben is two times older than Chris. Therefore, we calculate Ben's age as follows:\n   \\[\n   \\text{Ben's age} = 2 \\times \\text{Chris's age} = 2 \\times 4 = 8\n   \\]\n\n3. **Determine Caroline's age:**\n   Caroline is three times older than Ben. Therefore, we calculate Caroline's age as follows:\n   \\[\n   \\text{Caroline's age} = 3 \\times \\text{Ben's age} = 3 \\times 8 = 24\n   \\]\n\nThus, Caroline is \\(\\boxed{24}\\) years old.",
+    "answer": "Ben is 4*2 = <<4*2=8>>8 years old\nCaroline is 8*3 = <<8*3=24>>24 years old\n#### 24"
+}

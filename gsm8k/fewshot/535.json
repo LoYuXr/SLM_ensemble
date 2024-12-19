@@ -1,0 +1,5 @@
+{
+    "question": "Nick had twice as many candies as George. Then George ate 5 candies. Now George has 3 candies left. How many candies does Nick have?",
+    "completion": "Let's denote the number of candies George has initially as \\( G \\). According to the problem, Nick had twice as many candies as George initially, so Nick initially had \\( 2G \\) candies.\n\nAfter George ate 5 candies, he would have \\( G - 5 \\) candies left. The problem states that after eating 5 candies, George has 3 candies left. Therefore, we can set up the following equation:\n\n\\[ G - 5 = 3 \\]\n\nTo find the value of \\( G \\), we solve the equation by adding 5 to both sides:\n\n\\[ G = 3 + 5 \\]\n\\[ G = 8 \\]\n\nSo, George initially had 8 candies. Since Nick had twice as many candies as George initially, Nick initially had:\n\n\\[ 2G = 2 \\times 8 = 16 \\]\n\nTherefore, Nick has \\(\\boxed{16}\\) candies.",
+    "answer": "George has 3 candies now but he already ate 5. So he had 5 + 3 = <<5+3=8>>8 candies at the start.\nNick had twice as many candies as George, so he had 2 * 8 = <<2*8=16>>16 candies originally.\n#### 16"
+}

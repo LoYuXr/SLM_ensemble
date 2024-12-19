@@ -1,0 +1,5 @@
+{
+    "question": "John packs M&M in small bags to eat.  He buys 3 large bags weighing 10 ounces each.  If an ounce of M&M has 30 M&M in it how many small bags can he make if he puts 10 in each small bag?",
+    "completion": "To determine how many small bags John can make, we need to follow these steps:\n\n1. Calculate the total weight of the M&M in the large bags.\n2. Determine how many small bags can be filled with the total weight of the M&M.\n\nFirst, let's calculate the total weight of the M&M in the large bags. John buys 3 large bags, each weighing 10 ounces. Therefore, the total weight of the M&M is:\n\\[ 3 \\text{ bags} \\times 10 \\text{ ounces per bag} = 30 \\text{ ounces} \\]\n\nNext, we need to find out how many small bags can be filled with 30 ounces of M&M. Each small bag contains 10 M&M, so the number of small bags that can be filled is:\n\\[ \\frac{30 \\text{ ounces}}{10 \\text{ M&M per bag}} = 3 \\text{ bags} \\]\n\nThus, the number of small bags John can make is:\n\\[ \\boxed{3} \\]",
+    "answer": "He bought 3*10=<<3*10=30>>30 ounces of M&M\nThat means he got 30*30=<<30*30=900>>900 M&Ms\nSo he can make 900/10=<<900/10=90>>90 bags\n#### 90"
+}

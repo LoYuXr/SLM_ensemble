@@ -1,0 +1,5 @@
+{
+    "question": "Travis had 61 apps on his tablet. He deleted 9 apps he didn't use anymore and downloaded 18 more. How many apps are on his tablet now?",
+    "completion": "To determine how many apps are on Travis's tablet now, we need to follow these steps:\n\n1. Start with the initial number of apps on the tablet.\n2. Subtract the number of apps he deleted.\n3. Add the number of apps he downloaded.\n\nLet's go through the calculations step by step:\n\n1. Initial number of apps: 61\n2. Apps deleted: 9\n   \\[\n   61 - 9 = 52\n   \\]\n   So, after deleting 9 apps, Travis has 52 apps left.\n3. Apps downloaded: 18\n   \\[\n   52 + 18 = 70\n   \\]\n   So, after downloading 18 more apps, Travis now has 70 apps on his tablet.\n\nTherefore, the number of apps on Travis's tablet now is \\boxed{70}.",
+    "answer": "Travis had 61 - 9 = <<61-9=52>>52 apps after deleting the ones he didn't use.\nAfter downloading some more he now has 52 + 18 = <<52+18=70>>70 apps on his tablet.\n#### 70"
+}

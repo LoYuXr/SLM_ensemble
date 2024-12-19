@@ -1,0 +1,5 @@
+{
+    "question": "Sally has realized she did not receive a full wage this week. Her bank account, which held $200 at the start of the week, now holds $420. She has received no other money into her bank account this week. If her weekly wage should be $300, how many dollars were withheld from Sally\u2019s wage?",
+    "completion": "To determine how much was withheld from Sally's wage, we need to follow these steps:\n\n1. **Calculate the total amount Sally should have received:**\n   Sally's bank account started with $200 and now has $420. Therefore, the total amount she should have received is:\n   \\[\n   200 + 420 = 620\n   \\]\n\n2. **Determine the amount withheld:**\n   Sally's bank account now has $420, but she should have had $620. The amount withheld is the difference between the actual amount in the bank account and the amount she should have had:\n   \\[\n   620 - 420 = 200\n   \\]\n\nThus, the amount withheld from Sally's wage is \\(\\boxed{200}\\).",
+    "answer": "The wage she received was $420 \u2013 $200 = $<<420-200=220>>220\nThis means her wage was $300 \u2013 $220 = $<<300-220=80>>80 short\n#### 80"
+}

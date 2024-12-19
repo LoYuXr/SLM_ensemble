@@ -1,0 +1,5 @@
+{
+    "question": "A bag has a 5% discount. If it is marked $140, how much will you pay after the discount?",
+    "completion": "To determine the price after a 5% discount on a $140 bag, we can follow these steps:\n\n1. Calculate the amount of the discount.\n2. Subtract the discount from the original price.\n\nFirst, let's calculate the amount of the discount. The discount is 5% of $140. We can find 5% of $140 by multiplying $140 by 0.05 (since 5% is equivalent to 0.05 in decimal form).\n\n\\[\n\\text{Discount amount} = 140 \\times 0.05 = 7\n\\]\n\nSo, the discount amount is $7. Now, we subtract this discount amount from the original price to find the final price.\n\n\\[\n\\text{Final price} = 140 - 7 = 133\n\\]\n\nTherefore, the price you will pay after the discount is \\boxed{133}.",
+    "answer": "The discount amounts to $140 x 5/100 = $<<140*5/100=7>>7.\nHence, you will pay $140 - $7 = $<<140-7=133>>133 for the discounted bag.\n#### 133"
+}

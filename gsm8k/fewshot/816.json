@@ -1,0 +1,5 @@
+{
+    "question": "John goes to the market and buys 3 goats for $500 each and 2 cows for $1500 each.  How much money did he spend?",
+    "completion": "To determine how much money John spent, we need to calculate the total cost of the goats and the total cost of the cows separately, and then sum these amounts.\n\nFirst, let's calculate the cost of the goats:\n- John buys 3 goats.\n- Each goat costs $500.\n- Therefore, the total cost for the goats is:\n  \\[\n  3 \\text{ goats} \\times \\$500 \\text{ per goat} = \\$1500\n  \\]\n\nNext, let's calculate the cost of the cows:\n- John buys 2 cows.\n- Each cow costs $1500.\n- Therefore, the total cost for the cows is:\n  \\[\n  2 \\text{ cows} \\times \\$1500 \\text{ per cow} = \\$3000\n  \\]\n\nNow, we sum the total costs of the goats and the cows to find the total amount of money John spent:\n\\[\n\\$1500 \\text{ (goats)} + \\$3000 \\text{ (cows)} = \\$4500\n\\]\n\nThus, the total amount of money John spent is:\n\\[\n\\boxed{4500}\n\\]",
+    "answer": "The goats cost 3*500=$<<3*500=1500>>1500\nThe cows cost 2*1500=$<<2*1500=3000>>3000\nSo in total he spends 1500+3000=$<<1500+3000=4500>>4500\n#### 4500"
+}

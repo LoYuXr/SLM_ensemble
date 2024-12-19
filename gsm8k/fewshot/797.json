@@ -1,0 +1,5 @@
+{
+    "question": "Carrie is planning the caroling schedule. The choir plans to sing \"Deck the Halls\" twice and \"Jingle Bells\" once. If \"Deck the Halls\" is 150 seconds long and \"Jingle Bells\" is 240 seconds long, how long will they be caroling?",
+    "completion": "To determine the total time the choir will be caroling, we need to add the durations of the two songs together. The first song is \"Deck the Halls\" which is 150 seconds long, and the second song is \"Jingle Bells\" which is 240 seconds long.\n\nHere are the steps to calculate the total time:\n\n1. Identify the duration of the first song: 150 seconds.\n2. Identify the duration of the second song: 240 seconds.\n3. Add the two durations together: \\(150 + 240\\).\n\nLet's perform the addition:\n\n\\[150 + 240 = 390\\]\n\nSo, the total time the choir will be caroling is \\(\\boxed{390}\\) seconds.",
+    "answer": "First find the total time the choir spends singing \"Deck the Halls\": 2 * 150 seconds = <<2*150=300>>300 seconds\nThen add that time to the time spent singing \"Jingle Bells\": 300 seconds + 240 seconds = <<300+240=540>>540 seconds\n#### 540"
+}

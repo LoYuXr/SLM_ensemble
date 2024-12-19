@@ -1,0 +1,5 @@
+{
+    "question": "Jillian's handbag cost $20 less than 3 times as much as her shoes cost. If her shoes cost $80, how much did her bag cost?",
+    "completion": "To determine the cost of Jillian's handbag, we start by identifying the cost of her shoes. According to the problem, her shoes cost $80.\n\nNext, we need to calculate 3 times the cost of her shoes. This can be done by multiplying the cost of her shoes by 3:\n\\[\n3 \\times 80 = 240\n\\]\n\nThe problem states that Jillian's handbag cost $20 less than 3 times the cost of her shoes. Therefore, we subtract $20 from the total cost of her shoes:\n\\[\n240 - 20 = 220\n\\]\n\nThus, the cost of Jillian's handbag is \\(\\boxed{220}\\).",
+    "answer": "First triple the cost of the shoes: $80 * 3 = $<<80*3=240>>240\nThen subtract $20 to find the cost of the handbag: $240 - $20 = $<<240-20=220>>220\n#### 220"
+}

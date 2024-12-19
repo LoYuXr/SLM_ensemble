@@ -1,0 +1,5 @@
+{
+    "question": "Imma has 3 cats. She feeds her cats twice a day with 60 grams of cat food. How many days will 720 grams of cat food last?",
+    "completion": "To determine how many days 720 grams of cat food will last for 3 cats, we need to follow these steps:\n\n1. Calculate the total amount of cat food consumed by all 3 cats in one day.\n2. Determine how many days the total amount of cat food (720 grams) will last based on the daily consumption rate.\n\nFirst, let's calculate the total amount of cat food consumed by all 3 cats in one day:\n\\[ 3 \\text{ cats} \\times 60 \\text{ grams per cat per day} = 180 \\text{ grams per day} \\]\n\nNext, we need to find out how many days 720 grams of cat food will last:\n\\[ \\frac{720 \\text{ grams}}{180 \\text{ grams per day}} = 4 \\text{ days} \\]\n\nSo, 720 grams of cat food will last for \\boxed{4} days.",
+    "answer": "The 3 cats consume 60 grams/cat x 3 cats = <<60*3=180>>180 grams of food per meal.\nSince they eat twice a day, then they consume 180 grams/meal x 2 meals/day = <<180*2=360>>360 grams in a day.\nSo, 720 grams of cat food only last for 720 grams / 360 grams/day = <<720/360=2>>2 days.\n#### 2"
+}

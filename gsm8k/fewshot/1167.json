@@ -1,0 +1,5 @@
+{
+    "question": "Jack had $100. Sophia gave him 1/5 of her $100. How many dollars does Jack have now?",
+    "completion": "To determine how many dollars Jack has now, we need to follow these steps:\n\n1. Calculate how much money Sophia gave to Jack.\n2. Add the amount Sophia gave to Jack to his original amount.\n\nFirst, we calculate how much money Sophia gave to Jack. Sophia gave Jack \\(\\frac{1}{5}\\) of her $100. So, we perform the following calculation:\n\n\\[\n\\frac{1}{5} \\times 100 = 20\n\\]\n\nThis means Sophia gave Jack $20. Now, we add this amount to Jack's original $100:\n\n\\[\n100 + 20 = 120\n\\]\n\nTherefore, the total amount of money Jack has now is \\(\\boxed{120}\\).",
+    "answer": "Sophia gave 100 * 1/5 =<<100*1/5=20>>20 $ to Jack.\nJack now has 100 + 20 = <<100+20=120>>120$\n#### 120"
+}

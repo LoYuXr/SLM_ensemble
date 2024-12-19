@@ -1,0 +1,5 @@
+{
+    "question": "The light on a lighthouse blinks 255 times in 5 minutes. How long will it take the light to blink 459 times?",
+    "completion": "To determine how long it will take for the light to blink 459 times, we first need to find the rate at which the light blinks. We know that the light blinks 255 times in 5 minutes. Therefore, the rate of blinking is:\n\n\\[\n\\text{Rate} = \\frac{255 \\text{ times}}{5 \\text{ minutes}} = 51 \\text{ times per minute}\n\\]\n\nNext, we need to find out how long it will take for the light to blink 459 times at this rate. We can do this by dividing the total number of times the light should blink by the rate of blinking:\n\n\\[\n\\text{Time} = \\frac{459 \\text{ times}}{51 \\text{ times per minute}} = 9 \\text{ minutes}\n\\]\n\nSo, it will take the light 9 minutes to blink 459 times. The answer is:\n\n\\[\n\\boxed{9}\n\\]",
+    "answer": "The lighthouse blinks 255 / 5 = <<255/5=51>>51 times per minute.\nIt takes 459 / 51 = <<459/51=9>>9 minutes for the lighthouse to blink 459 times.\n#### 9"
+}

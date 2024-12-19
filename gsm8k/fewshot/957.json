@@ -1,0 +1,5 @@
+{
+    "question": "Shawna's father is five times as old as Shawna. Shawna is currently three times as old as Aliya. If Aliya is 3 years old, how old is Shawna's father?",
+    "completion": "To determine Shawna's father's age, we need to follow the relationships given in the problem step by step.\n\n1. **Identify Aliya's age:**\n   Aliya is currently 3 years old.\n\n2. **Determine Shawna's age:**\n   Shawna is currently three times as old as Aliya. Therefore, we calculate:\n   \\[\n   \\text{Shawna's age} = 3 \\times \\text{Aliya's age} = 3 \\times 3 = 9 \\text{ years old}\n   \\]\n\n3. **Determine Shawna's father's age:**\n   Shawna's father is five times as old as Shawna. Therefore, we calculate:\n   \\[\n   \\text{Shawna's father's age} = 5 \\times \\text{Shawna's age} = 5 \\times 9 = 45 \\text{ years old}\n   \\]\n\nThus, Shawna's father is \\(\\boxed{45}\\) years old.",
+    "answer": "Shawna is three times older than Aliya so Shawn is 3 * 3 = <<3*3=9>>9 years old.\nShawna's father is five times older than than Shawna, so her father is 9 * 5 = <<9*5=45>>45 years.\n#### 45"
+}

@@ -1,0 +1,5 @@
+{
+    "question": "John picks 4 bananas on Wednesday. Then he picks 6 bananas on Thursday. On Friday, he picks triple the number of bananas he did on Wednesday. How many bananas does John have?",
+    "completion": "To determine the total number of bananas John has picked over the three days, we need to calculate the number of bananas picked each day and then sum them up.\n\n1. On Wednesday, John picks 4 bananas.\n2. On Thursday, John picks 6 bananas.\n3. On Friday, John picks triple the number of bananas he picked on Wednesday. Since he picked 4 bananas on Wednesday, he picks \\(3 \\times 4 = 12\\) bananas on Friday.\n\nNow, we add the number of bananas picked each day to find the total:\n\\[ 4 \\text{ (Wednesday)} + 6 \\text{ (Thursday)} + 12 \\text{ (Friday)} = 22 \\]\n\nTherefore, the total number of bananas John has is \\(\\boxed{22}\\).",
+    "answer": "Combining Wednesday and Thursday, John has 4 bananas + 6 bananas = <<4+6=10>>10 bananas.\nOn Friday, he picks 3 * 4 bananas = <<3*4=12>>12 bananas.\nAltogether, John has 10 bananas + 12 bananas = <<10+12=22>>22 bananas.\n#### 22"
+}

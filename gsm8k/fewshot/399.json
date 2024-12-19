@@ -1,0 +1,5 @@
+{
+    "question": "Alice is 7 years older than Beth, who is 5 years older than Erica. What is the difference between the ages of Alice and Erica, if Erica is 30 years old?",
+    "completion": "To determine the difference in ages between Alice and Erica, we need to follow the relationships given in the problem step by step.\n\n1. Identify Erica's age:\n   Erica is 30 years old.\n\n2. Determine Beth's age:\n   Beth is 5 years older than Erica. Therefore, Beth's age is:\n   \\[\n   30 + 5 = 35 \\text{ years old}\n   \\]\n\n3. Determine Alice's age:\n   Alice is 7 years older than Beth. Therefore, Alice's age is:\n   \\[\n   35 + 7 = 42 \\text{ years old}\n   \\]\n\n4. Calculate the difference between Alice's and Erica's ages:\n   The difference in their ages is:\n   \\[\n   42 - 30 = 12 \\text{ years}\n   \\]\n\nThus, the difference between the ages of Alice and Erica is \\(\\boxed{12}\\).",
+    "answer": "Beth is 30+5 = <<30+5=35>>35 years old.\nAlice is 35+7 = <<35+7=42>>42 years old.\nThe difference between the ages of Alice and Erica is 42-30 = <<42-30=12>>12 years.\n#### 12"
+}

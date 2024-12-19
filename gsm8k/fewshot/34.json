@@ -1,0 +1,5 @@
+{
+    "question": "Siobhan has 2 fewer jewels than Aaron. Aaron has 5 more jewels than half of Raymond's jewels. If Raymond has 40 jewels, how many jewels does Siobhan have?",
+    "completion": "To determine how many jewels Siobhan has, we need to follow the relationships given in the problem step by step.\n\n1. **Raymond's Jewels:**\n   Raymond has 40 jewels.\n\n2. **Aaron's Jewels:**\n   Aaron has 5 more jewels than half of Raymond's jewels.\n   \\[\n   \\text{Half of Raymond's jewels} = \\frac{40}{2} = 20\n   \\]\n   \\[\n   \\text{Aaron's jewels} = 20 + 5 = 25\n   \\]\n\n3. **Siobhan's Jewels:**\n   Siobhan has 2 fewer jewels than Aaron.\n   \\[\n   \\text{Siobhan's jewels} = 25 - 2 = 23\n   \\]\n\nThus, Siobhan has \\(\\boxed{23}\\) jewels.",
+    "answer": "Half of Raymond's jewels is 40/2 = <<40/2=20>>20\nSince Aaron has 5 more jewels than half of Raymond's jewels, he has 20+5 = <<5+20=25>>25 jewels.\nIf Siobhan has 2 fewer jewels than Aaron, he has 25-2 = 23 jewels.\n#### 23"
+}

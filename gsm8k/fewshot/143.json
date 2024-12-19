@@ -1,0 +1,5 @@
+{
+    "question": "John buys milk for 2 dollars, eggs for 3 dollars, light bulbs for 3 dollars, cups for 3 dollars, and roach traps for 4 dollars.  If there is a 10% tax on all nonfood items how much did everything cost.",
+    "completion": "To determine the total cost of everything, we need to consider the prices of all the items and apply the 10% tax on non-food items. Let's break it down step by step:\n\n1. **Milk**: $2\n2. **Eggs**: $3\n3. **Light bulbs**: $3\n4. **Cups**: $3\n5. **Roach traps**: $4\n\nFirst, we calculate the total cost of non-food items:\n\\[ 2 + 3 + 3 + 3 + 4 = 15 \\]\n\nNext, we apply the 10% tax to the non-food items:\n\\[ 15 \\times 0.10 = 1.5 \\]\n\nNow, we add the tax to the total cost of the non-food items:\n\\[ 15 + 1.5 = 16.5 \\]\n\nTherefore, the total cost of everything, including the tax, is:\n\\[ \\boxed{16.5} \\]",
+    "answer": "The foodstuff cost 2+3=$<<2+3=5>>5\nThe nonfood stuff comes out to 3+3+4=$<<3+3+4=10>>10\nTax on the nonfood stuff comes out to 10*.1=$<<10*.1=1>>1\nSo the total cost is 5+10+1=$<<5+10+1=16>>16\n#### 16"
+}

@@ -1,0 +1,5 @@
+{
+    "question": "Daisy bought a bag of potatoes that weighed 5 pounds. She also bought a bag of sweet potatoes that weighed 2 times as much as the potatoes and a bag of carrots that weighed 3 pounds fewer than the sweet potatoes. How many pounds of carrots did Daisy buy?",
+    "completion": "To determine how many pounds of carrots Daisy bought, we need to follow these steps:\n\n1. Identify the weight of the sweet potatoes.\n2. Calculate the weight of the carrots based on the weight of the sweet potatoes.\n\nFirst, we know that the bag of potatoes weighed 5 pounds. The bag of sweet potatoes weighs 2 times as much as the potatoes. Therefore, the weight of the sweet potatoes is:\n\\[ 2 \\times 5 = 10 \\text{ pounds} \\]\n\nNext, we know that the bag of carrots weighs 3 pounds fewer than the sweet potatoes. Therefore, the weight of the carrots is:\n\\[ 10 - 3 = 7 \\text{ pounds} \\]\n\nSo, the number of pounds of carrots Daisy bought is:\n\\[ \\boxed{7} \\]",
+    "answer": "She bought 5 x 2 = <<5*2=10>>10 pounds of sweet potatoes.\nDaisy bought 10 - 3 = <<10-3=7>>7 pounds of carrots.\n#### 7"
+}

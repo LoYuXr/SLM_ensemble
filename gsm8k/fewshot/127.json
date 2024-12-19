@@ -1,0 +1,5 @@
+{
+    "question": "After transferring to a new school, Amy made 20 more friends than Lily. If Lily made 50 friends, how many friends do Lily and Amy have together?",
+    "completion": "To determine the total number of friends Amy and Lily have together, we start by identifying the number of friends each person has based on the information given.\n\n1. Lily made 50 friends.\n2. Amy made 20 more friends than Lily. Therefore, the number of friends Amy made is:\n   \\[\n   50 + 20 = 70\n   \\]\n\nNext, we add the number of friends Amy and Lily have together:\n\\[\n50 + 70 = 120\n\\]\n\nThus, the total number of friends Amy and Lily have together is \\(\\boxed{120}\\).",
+    "answer": "If Lily made 50 friends, Amy made 50+20 =<<50+20=70>>70 friends.\nTogether, they made 70+50 = <<70+50=120>>120 friends at the new school.\n#### 120"
+}

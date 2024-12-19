@@ -1,0 +1,5 @@
+{
+    "question": "Jimmy has $2 more than twice the money Ethel has. If Ethal has $8, how much money is Jimmy having?",
+    "completion": "To determine how much money Jimmy has, we start by identifying the amount of money Ethel has. According to the problem, Ethel has $8.\n\nNext, we need to find out how much money Jimmy has. The problem states that Jimmy has $2 more than twice the amount of money Ethel has. We can express this relationship mathematically as follows:\n\n\\[ \\text{Jimmy's money} = 2 \\times \\text{Ethel's money} + 2 \\]\n\nSubstituting the value of Ethel's money into the equation, we get:\n\n\\[ \\text{Jimmy's money} = 2 \\times 8 + 2 \\]\n\nNow, we perform the multiplication and addition:\n\n\\[ \\text{Jimmy's money} = 16 + 2 = 18 \\]\n\nTherefore, Jimmy has \\(\\boxed{18}\\) dollars.",
+    "answer": "The total amount of money jimmy has 2*$8 = $<<2*8=16>>16 more than Ethel.\nIf Jimmy has $2 more than twice the money Ethel has, he has 2+16 = $<<2+16=18>>18\n#### 18"
+}

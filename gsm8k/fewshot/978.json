@@ -1,0 +1,5 @@
+{
+    "question": "The red car is 40% cheaper than the blue car. The price of the blue car is $100. How much do both cars cost?",
+    "completion": "To determine the total cost of both the red car and the blue car, we need to follow these steps:\n\n1. **Identify the price of the blue car:**\n   The price of the blue car is given as $100.\n\n2. **Calculate the price of the red car:**\n   The red car is 40% cheaper than the blue car. This means the price of the red car is 60% of the price of the blue car (since 100% - 40% = 60%).\n\n   \\[\n   \\text{Price of the red car} = 100 \\times (1 - 0.40) = 100 \\times 0.60 = 60\n   \\]\n\n3. **Calculate the total cost of both cars:**\n   Add the price of the blue car and the price of the red car.\n\n   \\[\n   \\text{Total cost} = \\text{Price of the blue car} + \\text{Price of the red car} = 100 + 60 = 160\n   \\]\n\nTherefore, the total cost of both cars is \\(\\boxed{160}\\).",
+    "answer": "The red car is 40/100 * 100 = $<<40/100*100=40>>40 cheaper than the blue car.\nThat means, that the red car costs 100 - 40 = $<<100-40=60>>60.\nSo both cars cost 100 + 60 = $<<100+60=160>>160.\n#### 160"
+}

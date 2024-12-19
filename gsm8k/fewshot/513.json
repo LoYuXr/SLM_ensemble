@@ -1,0 +1,5 @@
+{
+    "question": "Julie had $500. She spent 20% of it on clothes and then 25% of the remaining money on CDs. How much money did Julie have left?",
+    "completion": "To determine how much money Julie has left, we need to follow the steps of her spending process carefully.\n\n1. **Calculate the amount spent on clothes:**\n   Julie spent 20% of her $500 on clothes.\n   \\[\n   \\text{Amount spent on clothes} = 0.20 \\times 500 = 100\n   \\]\n   So, after buying clothes, Julie has:\n   \\[\n   500 - 100 = 400\n   \\]\n\n2. **Calculate the amount spent on CDs:**\n   Julie then spent 25% of the remaining $400 on CDs.\n   \\[\n   \\text{Amount spent on CDs} = 0.25 \\times 400 = 100\n   \\]\n   So, after buying CDs, Julie has:\n   \\[\n   400 - 100 = 300\n   \\]\n\nTherefore, the amount of money Julie has left is \\(\\boxed{300}\\).",
+    "answer": "Julie spend $500 * 0.2 = $<<500*0.2=100>>100 for clothes.\nJulie then had $500 - $100 = $<<500-100=400>>400 left.\nShe spend $400 * 0.25 = $<<400*0.25=100>>100 on CDs.\nJulie had $400 - $100 = $<<400-100=300>>300 left.\n#### 300"
+}

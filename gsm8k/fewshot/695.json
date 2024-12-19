@@ -1,0 +1,5 @@
+{
+    "question": "There are 50 deer in a field.  50 percent of them are bucks.  20 percent of the bucks are 8 points.  How many 8 point bucks are there?",
+    "completion": "To determine the number of 8-point bucks in the field, we can follow these steps:\n\n1. **Calculate the total number of bucks:**\n   Since 50 percent of the deer are bucks, we can find the number of bucks by calculating 50 percent of 50 deer.\n   \\[\n   \\text{Number of bucks} = 50 \\times \\frac{50}{100} = 50 \\times 0.5 = 25\n   \\]\n\n2. **Calculate the number of 8-point bucks:**\n   We know that 20 percent of the bucks are 8-point bucks. To find the number of 8-point bucks, we calculate 20 percent of 25.\n   \\[\n   \\text{Number of 8-point bucks} = 25 \\times \\frac{20}{100} = 25 \\times 0.2 = 5\n   \\]\n\nTherefore, the number of 8-point bucks is \\(\\boxed{5}\\).",
+    "answer": "Bucks:50(.50)=25\n8 Points:25(.20)=5 bucks\n#### 5"
+}

@@ -1,0 +1,5 @@
+{
+    "question": "Ella earned $33 for 3 hours of dog walking. If she continues to walk dogs at the same rate, how much would she earn after 12 hours?",
+    "completion": "To determine how much Ella would earn after 12 hours of dog walking, we first need to find her rate of earning per hour. We know that Ella earned $33 for 3 hours of dog walking. Therefore, her rate of earning per hour is:\n\n\\[\n\\text{Rate per hour} = \\frac{33 \\text{ dollars}}{3 \\text{ hours}} = 11 \\text{ dollars per hour}\n\\]\n\nNext, we need to calculate how much she would earn for 12 hours of dog walking at this rate. We do this by multiplying her rate per hour by the number of hours she walks:\n\n\\[\n\\text{Earnings after 12 hours} = 11 \\text{ dollars per hour} \\times 12 \\text{ hours} = 132 \\text{ dollars}\n\\]\n\nThus, Ella would earn \\(\\boxed{132}\\) dollars after 12 hours of dog walking.",
+    "answer": "Ella earned $33 / 3 hours of dog walking = $<<33/3=11>>11 per hour.\nSo for 12 hours of dog walking, Ella would earn $11 x 12 = $<<12*11=132>>132.\n#### 132"
+}

@@ -1,0 +1,5 @@
+{
+    "question": "The price of a laptop is $1000. If you get a 20% discount, how much do you have to pay?",
+    "completion": "To calculate the price after a 20% discount on a $1000 laptop, you can follow these steps:\n\n1. Calculate the amount of the discount:\n   \\[\n   \\text{Discount Amount} = \\text{Original Price} \\times \\text{Discount Percentage}\n   \\]\n   \\[\n   \\text{Discount Amount} = 1000 \\times 0.20 = 200\n   \\]\n\n2. Subtract the discount amount from the original price to find the final price:\n   \\[\n   \\text{Final Price} = \\text{Original Price} - \\text{Discount Amount}\n   \\]\n   \\[\n   \\text{Final Price} = 1000 - 200 = 800\n   \\]\n\nSo, you have to pay $800 after a 20% discount on the laptop.",
+    "answer": "You will get a discount of 20/100 x $1000 = $<<20/100*1000=200>>200.\nTherefore, you will have to pay $1000 - $200 = $<<1000-200=800>>800.\n#### 800"
+}

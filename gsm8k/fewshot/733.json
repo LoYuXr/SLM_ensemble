@@ -1,0 +1,5 @@
+{
+    "question": "While walking down the street with his 3 younger siblings, Greg found $20. To be fair to his siblings, he decided to split the money equally. How much money did each of them get?",
+    "completion": "To determine how much money each of Greg's siblings gets, we need to divide the total amount of money by the number of siblings. Here are the steps:\n\n1. Identify the total amount of money Greg found: $20.\n2. Identify the number of siblings: 3.\n3. Divide the total amount of money by the number of siblings: $20 \u00f7 3.\n\nWhen we perform the division, we get:\n\n\\[ 20 \u00f7 3 = 6 \\text{ R } 2 \\]\n\nThis means that each sibling gets 6 dollars, and there are 2 dollars left over. Since the question asks how much money each sibling gets, the answer is:\n\n\\[ \\boxed{6} \\]",
+    "answer": "Greg and his 3 siblings equal 3 people + 1 person = <<3+1=4>>4 people.\nThe 20 dollars were divided equally, so each of them received $20 / 4 people = <<20/4=5>>5 dollars/person\n#### 5"
+}

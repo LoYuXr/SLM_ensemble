@@ -1,0 +1,5 @@
+{
+    "question": "David has $12.48 and wants to buy 16 bolts from a bin at the hardware store. Each bolt costs $0.03. How much money does David have left after paying for the bolts?",
+    "completion": "To determine how much money David has left after buying 16 bolts, we need to follow these steps:\n\n1. Calculate the total cost of the 16 bolts.\n2. Subtract the total cost from the amount of money David has.\n\nFirst, let's calculate the total cost of the 16 bolts. Each bolt costs $0.03, so the total cost is:\n\\[ 16 \\times 0.03 = 0.48 \\text{ dollars} \\]\n\nNext, we subtract the total cost of the bolts from the amount of money David has. David has $12.48, so the amount of money left after buying the bolts is:\n\\[ 12.48 - 0.48 = 12.00 \\text{ dollars} \\]\n\nTherefore, the amount of money David has left after paying for the bolts is:\n\\[ \\boxed{12.00} \\]",
+    "answer": "David paid 16 * 0.03 = $<<16*0.03=0.48>>0.48 for the bolts.\nDavid has $12.48 - $0.48 = $12 left.\n#### 12"
+}

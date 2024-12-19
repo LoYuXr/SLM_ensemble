@@ -1,0 +1,5 @@
+{
+    "question": "On average Joe throws 25 punches per minute.  A fight lasts 5 rounds of 3 minutes.  How many punches did he throw?",
+    "completion": "To determine the total number of punches Joe threw, we need to break down the problem into smaller steps and calculate accordingly.\n\n1. **Calculate the number of minutes in a fight:**\n   A fight lasts 5 rounds of 3 minutes each. Therefore, the total number of minutes in the fight is:\n   \\[\n   5 \\text{ rounds} \\times 3 \\text{ minutes per round} = 15 \\text{ minutes}\n   \\]\n\n2. **Calculate the total number of punches thrown in the fight:**\n   Joe throws 25 punches per minute. Therefore, the total number of punches thrown in 15 minutes is:\n   \\[\n   25 \\text{ punches per minute} \\times 15 \\text{ minutes} = 375 \\text{ punches}\n   \\]\n\nThus, the total number of punches Joe threw is \\(\\boxed{375}\\).",
+    "answer": "The fight lasted 5*3=<<5*3=15>>15 minutes\nHe threw 25*15=<<25*15=375>>375 punches\n#### 375"
+}

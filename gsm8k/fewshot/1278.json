@@ -1,0 +1,5 @@
+{
+    "question": "Tom found 214 seashells, Nancy found 432 seashells, and Benny found 86 seashells on the beach. When they cleaned them, they discovered that 67 were cracked. How many good seashells did they find together?",
+    "completion": "To determine the total number of good seashells found by Tom, Nancy, and Benny, we need to follow these steps:\n\n1. Calculate the total number of seashells found by all three.\n2. Subtract the number of cracked seashells from the total number of seashells to find the number of good seashells.\n\nFirst, let's find the total number of seashells found by adding the seashells found by Tom, Nancy, and Benny:\n\\[ 214 + 432 + 86 = 732 \\]\n\nNext, we need to subtract the number of cracked seashells from the total number of seashells to find the number of good seashells:\n\\[ 732 - 67 = 665 \\]\n\nTherefore, the total number of good seashells found by Tom, Nancy, and Benny is \\(\\boxed{665}\\).",
+    "answer": "Together they found 214 + 432 + 86 = <<214+432+86=732>>732 seashells before cleaning.\nAfter cleaning, their final seashell is 732 - 67 = <<732-67=665>>665.\n#### 665"
+}

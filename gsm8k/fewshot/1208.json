@@ -1,0 +1,5 @@
+{
+    "question": "Trinity sells magazines at 11/8 of the price she bought the magazines. If she bought the magazines at $72, what is her profit?",
+    "completion": "To determine Trinity's profit, we need to follow these steps:\n\n1. **Calculate the price of the magazines after the discount:**\n   Trinity sells the magazines at \\(\\frac{72}{11/8}\\) of the price she bought them at.\n\n2. **Perform the division:**\n   \\[\n   \\frac{72}{11/8} = 72 \\times \\frac{8}{11} = \\frac{72 \\times 8}{11} = \\frac{576}{11} \\approx 52.36\n   \\]\n   So, the price of the magazines after the discount is approximately $52.36.\n\n3. **Calculate the profit:**\n   Profit is calculated by subtracting the cost price from the selling price.\n   \\[\n   \\text{Profit} = \\text{Selling Price} - \\text{Cost Price} = 52.36 - 72 = -19.64\n   \\]\n   Therefore, Trinity's profit is approximately \\(-\\$19.64\\).\n\nThe final answer is:\n\\[\n\\boxed{-19.64}\n\\]",
+    "answer": "Trinity sells magazines at 11/8*$72=$<<11/8*72=99>>99.\nIf she bought the magazines at $72, she makes a profit of $99-$72=$27\n#### 27"
+}

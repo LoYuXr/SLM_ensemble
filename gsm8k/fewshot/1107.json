@@ -1,0 +1,5 @@
+{
+    "question": "How many girls are in the school if 40% of a school population is made up of 240 boys?",
+    "completion": "To determine the total school population, we start by understanding the given information:\n\n1. 40% of the school population is made up of 240 boys.\n2. We need to find the total population of the school.\n\nFirst, let's denote the total school population by \\( P \\).\n\nSince 40% of the school population is made up of boys, we can express this as:\n\\[ 0.40 \\times P = 240 \\]\n\nTo find \\( P \\), we solve the equation:\n\\[ P = \\frac{240}{0.40} \\]\n\nPerform the division:\n\\[ P = \\frac{240}{0.40} = \\frac{240}{\\frac{2}{5}} = 240 \\times \\frac{5}{2} = 120 \\times 5 = 600 \\]\n\nThus, the total school population is:\n\\[ P = 600 \\]\n\nTherefore, the total school population is \\(\\boxed{600}\\).",
+    "answer": "100% - 40% = 60% of the school's population are girls.\nSince 40% is equal to 240 students, then 1% is equal to 240/40 = <<240/40=6>>6 students.\nHence, there are 60 x 6 = <<60*6=360>>360 girls.\n#### 360"
+}

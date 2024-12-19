@@ -1,0 +1,5 @@
+{
+    "question": "In 7 days, Sofie will walk twice as far as Brian. If Sofie plans to walk 10 miles every day, how many miles will Brian walk in seven days?",
+    "completion": "To determine how many miles Brian will walk in seven days, we need to follow these steps:\n\n1. Determine how far Brian will walk in seven days.\n2. Use the information that Sofie will walk twice as far as Brian in seven days to find out how far Brian walks in seven days.\n\nFirst, let's find out how far Brian will walk in seven days. Since Sofie walks 10 miles every day and will walk twice as far as Brian in seven days, we can calculate the total distance Brian will walk in seven days as follows:\n\n\\[ \\text{Distance Brian walks in seven days} = 10 \\text{ miles/day} \\times 7 \\text{ days} = 70 \\text{ miles} \\]\n\nSo, Brian will walk 70 miles in seven days.",
+    "answer": "If Sofie walks 10 miles each day, she will walk 7*10 = <<10*7=70>>70 miles in seven days.\nSince Sofie is walking twice as far as Brian, Brian will walk 70/2 = <<70/2=35>>35 miles in seven days.\n#### 35"
+}

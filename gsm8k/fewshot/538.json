@@ -1,0 +1,5 @@
+{
+    "question": "Emma can make and upload 72 vlogs per month. But she was only able to make 18 vlogs for the first week, 21 vlogs for the second week, and 15 vlogs for the third week. How many vlogs should she do to complete the 72 vlogs per month?",
+    "completion": "To determine how many more vlogs Emma needs to make to complete 72 vlogs per month, we first need to calculate the total number of vlogs she has already made in the first three weeks.\n\nEmma made:\n- 18 vlogs in the first week\n- 21 vlogs in the second week\n- 15 vlogs in the third week\n\nAdding these together, we get:\n\\[ 18 + 21 + 15 = 54 \\text{ vlogs} \\]\n\nEmma's goal is to make 72 vlogs per month. Therefore, the number of additional vlogs she needs to make is:\n\\[ 72 - 54 = 18 \\text{ vlogs} \\]\n\nSo, Emma needs to make \\(\\boxed{18}\\) more vlogs to complete her goal of 72 vlogs per month.",
+    "answer": "Emma was able to make 18 + 21 + 15 = <<18+21+15=54>>54 vlogs for 3 weeks.\nTherefore, Emma needs to do 72 - 54 = <<72-54=18>>18 more vlogs to complete the 72 vlogs.\n#### 18"
+}

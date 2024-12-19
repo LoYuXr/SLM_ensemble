@@ -1,0 +1,5 @@
+{
+    "question": "For the children's day celebration, children are to perform mass drills in the presence of the President of the country. They stand 8 in a row and there are 7 rows each for 5 different Schools. How many children can there be in the drill?",
+    "completion": "To determine the total number of children participating in the mass drills, we need to consider the number of rows and the number of schools in each row. Here's the step-by-step reasoning:\n\n1. Identify the number of rows and the number of schools in each row.\n   - There are 7 rows.\n   - Each row has 5 schools.\n\n2. Calculate the total number of children by multiplying the number of rows by the number of schools per row.\n   \\[\n   \\text{Total number of children} = \\text{Number of rows} \\times \\text{Number of schools per row} = 7 \\times 5 = 35\n   \\]\n\nTherefore, the total number of children participating in the drill is \\(\\boxed{35}\\).",
+    "answer": "Each school can have up to 8 students in 7 rows for a total of 8*7 = <<8*7=56>>56 students\nThere are 5 different schools that can bring a total of 5*56 = <<5*56=280>>280 students\n#### 280"
+}

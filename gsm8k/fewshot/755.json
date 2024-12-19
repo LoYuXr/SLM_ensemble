@@ -1,0 +1,5 @@
+{
+    "question": "Joey plays football every week. Last week he played 2 matches on Monday, 1 match on Friday, and on Saturday he played double the number of matches he played on Monday. How many matches did Joey play in one week?",
+    "completion": "To determine the total number of matches Joey played in one week, we need to add up the matches he played each day. Let's break it down step by step:\n\n1. Joey played 2 matches on Monday.\n2. Joey played 1 match on Friday.\n3. On Saturday, Joey played double the number of matches he played on Monday. Since he played 2 matches on Monday, on Saturday he played \\(2 \\times 2 = 4\\) matches.\n\nNow, we add up all the matches:\n\\[2 \\text{ (Monday)} + 1 \\text{ (Friday)} + 4 \\text{ (Saturday)} = 7\\]\n\nSo, the total number of matches Joey played in one week is \\(\\boxed{7}\\).",
+    "answer": "On Saturday, Joey played 2 * 2 = <<2*2=4>>4 matches.\nFor the whole week, Joey played 2 + 1 + 4 = <<2+1+4=7>>7 matches in total.\n#### 7"
+}

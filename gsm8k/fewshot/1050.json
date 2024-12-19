@@ -1,0 +1,5 @@
+{
+    "question": "It is approximately 1955 kilometers from San Diego, California to New York City, New York. If Bernice drove 325 kilometers for 4 days, how many kilometers will she still need to drive?",
+    "completion": "To determine how many kilometers Bernice still needs to drive, we can follow these steps:\n\n1. Calculate the total distance Bernice has already driven.\n2. Subtract the distance she has already driven from the total distance to find out how many kilometers she still needs to drive.\n\nFirst, let's calculate the total distance Bernice has already driven. She drove 325 kilometers for 4 days. So, the total distance driven is:\n\\[ 325 \\text{ km/day} \\times 4 \\text{ days} = 1300 \\text{ km} \\]\n\nNext, we subtract the distance she has already driven from the total distance to find out how many kilometers she still needs to drive:\n\\[ 1955 \\text{ km} - 1300 \\text{ km} = 655 \\text{ km} \\]\n\nTherefore, the number of kilometers Bernice still needs to drive is:\n\\[ \\boxed{655} \\]",
+    "answer": "325 * 4 = <<325*4=1300>>1300 km\n1955 - 1300 = <<1955-1300=655>>655 km\nBernice will still have 655 kilometers to travel.\n#### 655"
+}

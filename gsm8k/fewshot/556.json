@@ -1,0 +1,5 @@
+{
+    "question": "How much does it cost you for lunch today at Subway if you pay $40 for a foot-long fish sub and thrice as much for a six-inch cold-cut combo sub?",
+    "completion": "To calculate the total cost of your lunch, we need to consider the cost of both the fish sub and the cold-cut combo sub.\n\n1. **Cost of the fish sub:**\n   - The fish sub is 1 foot long.\n   - The cost is $40.\n\n2. **Cost of the cold-cut combo sub:**\n   - The cold-cut combo sub is 6 inches long.\n   - The cost is three times the cost of the fish sub.\n   - Cost of the cold-cut combo sub = 3 \u00d7 $40 = $120.\n\nNow, we add the cost of both items to find the total cost of your lunch:\n\n- Total cost = Cost of the fish sub + Cost of the cold-cut combo sub\n- Total cost = $40 + $120 = $160.\n\nSo, the total cost of your lunch is $160.",
+    "answer": "If you pay $40 for a foot-long fish sub, thrice as much for a six-inch cold-cut combo sub will be 3*$40= $120\nThe cost of lunch will be $120+$40 = $<<120+40=160>>160\n#### 160"
+}

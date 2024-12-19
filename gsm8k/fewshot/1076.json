@@ -1,0 +1,5 @@
+{
+    "question": "Terry sells 6 milkshakes for $5.50 each, nine burger platters for $11 each, and 20 sodas for $1.50 each. How much money does he make in total?",
+    "completion": "To calculate the total amount of money Terry makes, we need to multiply the number of each type of item he sells by the price of each item and then add all the totals together.\n\nFor the milkshakes:\n6 milkshakes * $5.50 each = $33.00\n\nFor the burger platters:\n9 burger platters * $11 each = $99.00\n\nFor the sodas:\n20 sodas * $1.50 each = $30.00\n\nNow, we add all the totals together:\n$33.00 (milkshakes) + $99.00 (burger platters) + $30.00 (sodas) = $162.00\n\nSo, Terry makes a total of $162.00.",
+    "answer": "First find the total cost of the milkshakes: 6 milkshakes * $5.50/milkshake = $<<6*5.5=33>>33\nThen find the total cost of the burger platters: 9 platters * $11/platter = $<<9*11=99>>99\nThen find the total cost of the sodas: 20 sodas * $1.50/soda = $<<20*1.5=30>>30\nThen add the money from each type of food to find total amount of money Terry earns: $33 + $99 + $30 = $<<33+99+30=162>>162\n#### 162"
+}

@@ -1,0 +1,5 @@
+{
+    "question": "Patricia has 30 roses. She gave 24 roses to her mother. She bought 15 more roses.  How many roses did she have now?",
+    "completion": "To determine how many roses Patricia has now, we need to follow these steps:\n\n1. Start with the initial number of roses Patricia had.\n2. Subtract the number of roses she gave to her mother.\n3. Add the number of roses she bought.\n\nLet's go through the calculations step by step:\n\n1. Patricia initially had 30 roses.\n2. She gave 24 roses to her mother. So, we subtract 24 from 30:\n   \\[\n   30 - 24 = 6\n   \\]\n   Now Patricia has 6 roses left.\n3. She then bought 15 more roses. So, we add 15 to the 6 roses she has left:\n   \\[\n   6 + 15 = 21\n   \\]\n\nTherefore, the total number of roses Patricia has now is \\boxed{21}.",
+    "answer": "Patricia had 30 - 24 = <<30-24=6>>6 roses left after she gave 24 roses to her mother.\nTherefore, she has 6 + 15 = <<6+15=21>>21 roses now.\n#### 21"
+}

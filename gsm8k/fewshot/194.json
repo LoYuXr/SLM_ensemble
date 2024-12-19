@@ -1,0 +1,5 @@
+{
+    "question": "Violetta wants to buy new crayons. She needs them in 5 different colors and prepared $20 for this purchase. One crayon costs $2. How much change will she get?",
+    "completion": "To determine how much change Violetta will get, we need to follow these steps:\n\n1. Calculate the total cost of the crayons Violetta needs.\n2. Subtract the total cost from the amount of money Violetta prepared.\n\nFirst, let's calculate the total cost of the crayons. Violetta needs 5 different colors, and each crayon costs $2. Therefore, the total cost is:\n\\[ 5 \\text{ crayons} \\times 2 \\text{ dollars per crayon} = 10 \\text{ dollars} \\]\n\nNext, we subtract the total cost from the amount of money Violetta prepared. Violetta prepared $20. So, the change she will get is:\n\\[ 20 \\text{ dollars} - 10 \\text{ dollars} = 10 \\text{ dollars} \\]\n\nThus, the change Violetta will get is \\(\\boxed{10}\\).",
+    "answer": "Violetta is going to pay 5 * 2 = $<<5*2=10>>10 for the crayons she wants.\nIf she pays $20, she will get 20 - 10 = $<<20-10=10>>10 of change.\n#### 10"
+}

@@ -1,0 +1,5 @@
+{
+    "question": "Digimon had its 20th anniversary.  When it came out John was twice as old as Jim.  If John is 28 now how old is Jim?",
+    "completion": "To determine Jim's age, we need to follow these steps:\n\n1. **Identify John's current age:**\n   John is 28 years old.\n\n2. **Determine John's age when the Digimon came out:**\n   According to the problem, John was twice as old as Jim when the Digimon came out. Let's denote Jim's age when the Digimon came out as \\( J \\).\n\n   Since John is twice as old as Jim, we can write the equation:\n   \\[\n   28 = 2J\n   \\]\n\n3. **Solve for Jim's age:**\n   To find \\( J \\), we divide both sides of the equation by 2:\n   \\[\n   J = \\frac{28}{2} = 14\n   \\]\n\nTherefore, Jim is 14 years old when the Digimon came out.",
+    "answer": "When Digimon came out John would have been 28-20=<<28-20=8>>8\nSo Jim was 8/2=<<8/2=4>>4 years old\nThat means John is now 4+20=<<4+20=24>>24\n#### 24"
+}

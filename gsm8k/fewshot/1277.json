@@ -1,0 +1,5 @@
+{
+    "question": "Mia and Emma are currently 16 years apart in age. If Mia, who is younger than Emma, is 40 years old, what's the average of their ages?",
+    "completion": "To find the average of Mia's and Emma's ages, we need to follow these steps:\n\n1. Identify Mia's age.\n2. Identify Emma's age.\n3. Calculate the average of Mia's and Emma's ages.\n\nFrom the problem, we know:\n- Mia is 40 years old.\n- Mia is younger than Emma.\n\nSince Mia is younger than Emma, Emma must be 40 years older than Mia. Therefore, Emma's age is:\n\\[ 40 + 40 = 80 \\text{ years old} \\]\n\nNow, we can calculate the average of Mia's and Emma's ages:\n\\[ \\text{Average} = \\frac{\\text{Mia's age} + \\text{Emma's age}}{2} = \\frac{40 + 80}{2} = \\frac{120}{2} = 60 \\]\n\nSo, the average of their ages is:\n\\[ \\boxed{60} \\]",
+    "answer": "If Mia is 40 years old, Emma is 40+16 = <<40+16=56>>56 years old.\nThe sum of their ages is 56+40 = <<56+40=96>>96 years\nThe average age of the two is 96/2 = <<96/2=48>>48 years\n#### 48"
+}

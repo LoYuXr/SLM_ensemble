@@ -1,0 +1,5 @@
+{
+    "question": "The rug is 5 feet wider than the chair. The couch is 2 feet longer than twice the width of the rug. If the chair is 3 feet wide. How many feet long is the couch?",
+    "completion": "To determine the length of the couch, we need to follow the given relationships step by step.\n\n1. **Determine the width of the rug:**\n   The rug is 5 feet wider than the chair. The chair is 3 feet wide.\n   \\[\n   \\text{Width of the rug} = \\text{Width of the chair} + 5 = 3 + 5 = 8 \\text{ feet}\n   \\]\n\n2. **Determine the width of the couch:**\n   The couch is 2 feet longer than twice the width of the rug.\n   \\[\n   \\text{Width of the couch} = 2 \\times \\text{Width of the rug} + 2 = 2 \\times 8 + 2 = 16 + 2 = 18 \\text{ feet}\n   \\]\n\nThus, the length of the couch is \\(\\boxed{18}\\) feet.",
+    "answer": "Chair = <<3=3>>3 feet\nRug = 3 + 5 = <<3+5=8>>8 feet\nCouch = 2 * 8 + 2 = <<2*8+2=18>>18 feet\nThe couch is <<18=18>>18 feet long.\n#### 18"
+}

@@ -1,0 +1,5 @@
+{
+    "question": "Tom gets 4 car washes a month.  If each car wash costs $15 how much does he pay in a year?",
+    "completion": "To determine how much Tom pays in a year for car washes, we need to follow these steps:\n\n1. Calculate the monthly cost of car washes.\n2. Multiply the monthly cost by the number of months in a year.\n\nFirst, let's calculate the monthly cost of car washes. Tom gets 4 car washes a month, and each car wash costs $15. So, the monthly cost is:\n\\[ 4 \\text{ car washes/month} \\times 15 \\text{ dollars/car wash} = 60 \\text{ dollars/month} \\]\n\nNext, we need to find out how much Tom pays in a year. Since there are 12 months in a year, we multiply the monthly cost by 12:\n\\[ 60 \\text{ dollars/month} \\times 12 \\text{ months/year} = 720 \\text{ dollars/year} \\]\n\nTherefore, the total amount Tom pays in a year is:\n\\[ \\boxed{720} \\]",
+    "answer": "He gets 4*12=<<4*12=48>>48 car washes a year\nThat means it cost 48*15=$<<48*15=720>>720\n#### 720"
+}

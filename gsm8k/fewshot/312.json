@@ -1,0 +1,5 @@
+{
+    "question": "Trent is 5 years older than Jane, and Jane is 3 years younger than Quinn. If Quinn is 30, how old is Trent?",
+    "completion": "To determine Trent's age, we need to follow the relationships given in the problem step by step.\n\n1. Identify Quinn's age:\n   Quinn is 30 years old.\n\n2. Determine Jane's age:\n   Jane is 3 years younger than Quinn. Therefore, Jane's age is:\n   \\[\n   30 - 3 = 27\n   \\]\n\n3. Determine Trent's age:\n   Trent is 5 years older than Jane. Therefore, Trent's age is:\n   \\[\n   27 + 5 = 32\n   \\]\n\nSo, Trent is \\(\\boxed{32}\\) years old.",
+    "answer": "Jane is 30-3=<<30-3=27>>27 years old\nTrent is 27+5=<<27+5=32>>32 years old\n#### 32"
+}

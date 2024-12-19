@@ -1,0 +1,5 @@
+{
+    "question": "Marin and his neighbor Nancy each eat 4 apples a day. How many apples do they eat in 30 days?",
+    "completion": "To determine how many apples Marin and Nancy eat in 30 days, we need to follow these steps:\n\n1. Calculate the number of apples Marin eats in one day.\n2. Calculate the number of apples Nancy eats in one day.\n3. Multiply the number of apples Marin eats in one day by the number of days.\n4. Multiply the number of apples Nancy eats in one day by the number of days.\n\nLet's start with Marin:\nMarin eats 4 apples a day.\n\nNext, let's calculate Nancy's apples:\nNancy eats 4 apples a day.\n\nNow, we multiply the number of apples Marin eats in one day by the number of days:\n\\[ 4 \\text{ apples/day} \\times 30 \\text{ days} = 120 \\text{ apples} \\]\n\nSo, Marin and Nancy eat a total of 120 apples in 30 days.\n\nThe final answer is:\n\\[\n\\boxed{120}\n\\]",
+    "answer": "In one day, Marin and Nancy eat 4 + 1 = <<4+1=5>>5 apples.\nIn 30 days, they eat 30 * 5 = <<30*5=150>>150 apples.\n#### 150"
+}

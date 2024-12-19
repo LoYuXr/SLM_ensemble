@@ -1,0 +1,5 @@
+{
+    "question": "Frankie and Binkie went bowling together.  Frankie's score was 15 better more than twice as high as Binkie's. If Binkie bowled a score of 90, what was Frankie's score?",
+    "completion": "To determine Frankie's score, we start by defining the scores of Frankie and Binkie. Let's denote Binkie's score by \\( B \\). According to the problem, Binkie's score is 90, so we have:\n\n\\[ B = 90 \\]\n\nNext, we need to express Frankie's score in terms of Binkie's score. The problem states that Frankie's score is 15 more than twice as high as Binkie's score. This can be written as:\n\n\\[ F = 2B + 15 \\]\n\nwhere \\( F \\) is Frankie's score. Now, we substitute the value of \\( B \\) into the equation:\n\n\\[ F = 2(90) + 15 \\]\n\nFirst, we calculate \\( 2 \\times 90 \\):\n\n\\[ 2 \\times 90 = 180 \\]\n\nThen, we add 15 to 180:\n\n\\[ F = 180 + 15 = 195 \\]\n\nTherefore, Frankie's score is:\n\n\\[ \\boxed{195} \\]",
+    "answer": "Twice Binkie's score is 2*90=<<2*90=180>>180.\nFifteen more than twice Binkie's score is 180+15=<<180+15=195>>195.\n#### 195"
+}

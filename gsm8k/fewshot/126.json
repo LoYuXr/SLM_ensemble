@@ -1,0 +1,5 @@
+{
+    "question": "Dylan needed chicken sausages and fish sausages to make sausage buns at a party. He bought 38 chicken sausages and 6 more fish sausages than chicken sausages. How many sausages did Dylan buy in all?",
+    "completion": "To determine the total number of sausages Dylan bought, we need to follow these steps:\n\n1. Identify the number of chicken sausages Dylan bought.\n2. Calculate the number of fish sausages Dylan bought.\n3. Add the number of chicken sausages and fish sausages together to find the total number of sausages.\n\nStep 1: Identify the number of chicken sausages.\nDylan bought 38 chicken sausages.\n\nStep 2: Calculate the number of fish sausages.\nDylan bought 6 more fish sausages than chicken sausages. Therefore, the number of fish sausages is:\n\\[ 38 + 6 = 44 \\]\n\nStep 3: Add the number of chicken sausages and fish sausages together.\nThe total number of sausages is:\n\\[ 38 + 44 = 82 \\]\n\nThus, the total number of sausages Dylan bought is \\(\\boxed{82}\\).",
+    "answer": "He bought 38 + 6 = <<38+6=44>>44 fish sausages.\nDylan bought 38 + 44 = <<38+44=82>>82 sausages in all.\n#### 82"
+}

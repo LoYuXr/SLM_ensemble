@@ -1,0 +1,5 @@
+{
+    "question": "The girls are trying to raise money for a carnival. Kim raises $320 more than Alexandra, who raises $430, and Maryam raises $400 more than Sarah, who raises $300. How much money, in dollars, did they all raise in total?",
+    "completion": "To determine the total amount of money raised by the girls, we need to calculate the contributions of each girl step by step.\n\nFirst, let's find out how much money each girl raised:\n1. Kim raises $320 more than Alexandra. Since Alexandra raises $430, Kim raises:\n   \\[\n   430 + 320 = 750 \\text{ dollars}\n   \\]\n\n2. Maryam raises $400 more than Sarah. Since Sarah raises $300, Maryam raises:\n   \\[\n   300 + 400 = 700 \\text{ dollars}\n   \\]\n\n3. Alexandra raises $430, Kim raises $750, and Maryam raises $700. Now, we sum these amounts to find the total:\n   \\[\n   430 + 750 + 700 = 1,880 \\text{ dollars}\n   \\]\n\nTherefore, the total amount of money raised by the girls is:\n\\[\n\\boxed{1880}\n\\]",
+    "answer": "Kim raises 320+430=<<320+430=750>>750 dollars.\nMaryam raises 400+300=<<400+300=700>>700 dollars.\nThey raise 750+430+400+700=<<750+430+400+700=2280>>2280 dollars.\n#### 2280"
+}

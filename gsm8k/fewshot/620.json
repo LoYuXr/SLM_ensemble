@@ -1,0 +1,5 @@
+{
+    "question": "A DVD can be played 1000 times before it breaks. There are two DVDs in the public library, one has been played 356 times and the other has been played 135 times. How many total times can both DVDs be played before they break?",
+    "completion": "To determine how many total times both DVDs can be played before they break, we need to consider the cumulative effect of their play times. Let's break it down step by step:\n\n1. **First DVD:**\n   - Played 356 times.\n\n2. **Second DVD:**\n   - Played 135 times.\n\nTo find the total number of play times, we add the play times of both DVDs:\n\\[\n356 + 135\n\\]\n\nNow, let's perform the addition:\n\\[\n356 + 135 = 491\n\\]\n\nTherefore, both DVDs can be played a total of 491 times before they break.",
+    "answer": "1000-356=<<1000-356=644>>644 times\n1000-135=<<1000-135=865>>865 times\n644+865=<<644+865=1509>>1509 times\n#### 1509"
+}

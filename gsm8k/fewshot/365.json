@@ -1,0 +1,5 @@
+{
+    "question": "There are 6 girls in the park. If there are twice the number of boys in the park, how many kids are in the park?",
+    "completion": "To determine the total number of kids in the park, we need to follow these steps:\n\n1. Identify the number of girls in the park.\n2. Calculate the number of boys in the park.\n3. Add the number of girls and boys together to get the total number of kids in the park.\n\nStep 1: Identify the number of girls in the park.\nThere are 6 girls in the park.\n\nStep 2: Calculate the number of boys in the park.\nAccording to the problem, there are twice the number of boys as there are girls. Since there are 6 girls, the number of boys is:\n\\[ 2 \\times 6 = 12 \\]\n\nStep 3: Add the number of girls and boys together to get the total number of kids in the park.\nThe total number of kids is:\n\\[ 6 + 12 = 18 \\]\n\nTherefore, the total number of kids in the park is \\(\\boxed{18}\\).",
+    "answer": "There are 6 girls x 2 boys/girl = <<6*2=12>>12 boys in the park.\nIn total there are 6 girls + 12 boys = <<6+12=18>>18 kids in the park\n#### 18"
+}

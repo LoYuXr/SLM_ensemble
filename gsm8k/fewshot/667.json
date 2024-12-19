@@ -1,0 +1,5 @@
+{
+    "question": "Sarah\u2019s basketball games are 4 quarters that are each 12 minutes long. In the last quarter, there was a tie so the game was extended for five minutes. How long did the entire game last?",
+    "completion": "To determine the total duration of Sarah's basketball games, we need to break down the problem into smaller parts and then sum the durations.\n\n1. **Calculate the duration of the first 3 quarters:**\n   Each quarter is 12 minutes long.\n   \\[\n   3 \\text{ quarters} \\times 12 \\text{ minutes/quarter} = 36 \\text{ minutes}\n   \\]\n\n2. **Add the extra 5 minutes for the last quarter:**\n   \\[\n   36 \\text{ minutes} + 5 \\text{ minutes} = 41 \\text{ minutes}\n   \\]\n\nTherefore, the entire game lasted \\(\\boxed{41}\\) minutes.",
+    "answer": "The four quarters lasted for 12 x 4 = <<12*4=48>>48 minutes.\nThe total time of the game for the entire game was 48 + 5 = <<48+5=53>>53 minutes.\n#### 53"
+}

@@ -1,0 +1,5 @@
+{
+    "question": "James buys 2 pairs of shoes a month.  He spends $2640 on shoes each year.  How much does he pay on average for each pair of shoes?",
+    "completion": "To determine how much James pays on average for each pair of shoes, we need to follow these steps:\n\n1. Calculate the total number of pairs of shoes James buys in a year.\n2. Determine the average cost per pair of shoes.\n\nFirst, we know that James buys 2 pairs of shoes each month. There are 12 months in a year. Therefore, the total number of pairs of shoes he buys in a year is:\n\\[ 2 \\text{ pairs/month} \\times 12 \\text{ months/year} = 24 \\text{ pairs/year} \\]\n\nNext, we know that James spends a total of $2640 on shoes each year. To find the average cost per pair of shoes, we divide the total annual cost by the total number of pairs of shoes:\n\\[ \\frac{2640 \\text{ dollars}}{24 \\text{ pairs}} = 110 \\text{ dollars/pair} \\]\n\nThus, the average amount James pays for each pair of shoes is:\n\\[ \\boxed{110} \\]",
+    "answer": "He buys 2*12=<<2*12=24>>24 pairs of shoes a year\nSo he spends 2640/24=$<<2640/24=110>>110 per pair\n#### 110"
+}

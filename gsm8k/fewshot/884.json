@@ -1,0 +1,5 @@
+{
+    "question": "Argo has 200 toys. He gives 40 toys to Alyssa, 80 to Bonnie, and 30 to Nicky. How many toys does Argo have now?",
+    "completion": "To determine how many toys Argo has after giving some to Alyssa, Bonnie, and Nicky, we need to follow these steps:\n\n1. Start with the initial number of toys Argo has.\n2. Subtract the number of toys given to Alyssa.\n3. Subtract the number of toys given to Bonnie.\n4. Subtract the number of toys given to Nicky.\n\nLet's go through the calculations step by step:\n\n1. Initial number of toys: 200\n2. Toys given to Alyssa: 40\n   \\[\n   200 - 40 = 160\n   \\]\n3. Toys given to Bonnie: 80\n   \\[\n   160 - 80 = 80\n   \\]\n4. Toys given to Nicky: 30\n   \\[\n   80 - 30 = 50\n   \\]\n\nSo, after giving toys to Alyssa, Bonnie, and Nicky, Argo has \\boxed{50} toys.",
+    "answer": "After Argo gives 40 toys to Alyssa, he remains with 200-40 =<<200-40=160>>160\nArgo also gives 80 Bonnie 80 toys and remains with 160-80 = 80 toys\nIf he also gave Nicky 30 toys, the number of toys Arge remains with is 80-30 = <<80-30=50>>50.\n#### 50"
+}

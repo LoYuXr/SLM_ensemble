@@ -1,0 +1,5 @@
+{
+    "question": "Andy plants 90 geraniums and 40 fewer petunias that geraniums. How many flowers does he plant total?",
+    "completion": "To determine the total number of flowers Andy plants, we need to follow these steps:\n\n1. Identify the number of geraniums planted.\n2. Identify the number of petunias planted.\n3. Add the number of geraniums and petunias together to get the total number of flowers planted.\n\nStep 1: Identify the number of geraniums planted.\nAndy plants 90 geraniums.\n\nStep 2: Identify the number of petunias planted.\nAndy plants 40 fewer petunias than geraniums. Since he plants 90 geraniums, the number of petunias is:\n\\[ 90 - 40 = 50 \\]\n\nStep 3: Add the number of geraniums and petunias together to get the total number of flowers planted.\n\\[ 90 + 50 = 140 \\]\n\nTherefore, the total number of flowers Andy plants is \\(\\boxed{140}\\).",
+    "answer": "First find the number of petunias Andy plants: 90 flowers - 40 = <<90-40=50>>50 flowers\nThen add the number of each kind of flower he plants to find the total number: 50 flowers + 90 flowers = <<50+90=140>>140 flowers\n#### 140"
+}

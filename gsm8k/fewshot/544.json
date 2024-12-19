@@ -1,0 +1,5 @@
+{
+    "question": "Jeff and Brad are trying to divide 100 dollars between them. Jeff gets 4 times as much as Brad. How much does Jeff get in dollars?",
+    "completion": "To determine how much Jeff gets in dollars, we start by defining the amount of money Brad gets as \\( x \\) dollars. According to the problem, Jeff gets 4 times as much as Brad, so Jeff gets \\( 4x \\) dollars.\n\nThe total amount of money they have together is the sum of what Jeff and Brad get. Therefore, we can write the equation:\n\\[ x + 4x = 100 \\]\n\nCombining like terms on the left side of the equation, we get:\n\\[ 5x = 100 \\]\n\nTo find the value of \\( x \\), we divide both sides of the equation by 5:\n\\[ x = \\frac{100}{5} = 20 \\]\n\nSo, Brad gets 20 dollars. Since Jeff gets 4 times as much as Brad, we calculate Jeff's amount as follows:\n\\[ 4x = 4 \\times 20 = 80 \\]\n\nTherefore, Jeff gets \\(\\boxed{80}\\) dollars.",
+    "answer": "Brad gets 100/5=<<100/5=20>>20 dollars.\nJeff gets 20*4=<<20*4=80>>80 dollars.\n#### 80"
+}

@@ -1,0 +1,5 @@
+{
+    "question": "The eighth-grade class held a bake-off. Kelsie made two times more cookies than Josh. Josh made one-fourth the number of cookies that Suzanne made. If Suzanne made 36 cookies, how many did Kelsie make?",
+    "completion": "To determine how many cookies Kelsie made, we need to follow the relationships given in the problem step by step.\n\n1. **Determine how many cookies Suzanne made:**\n   Suzanne made 36 cookies.\n\n2. **Calculate how many cookies Josh made:**\n   Josh made one-fourth the number of cookies that Suzanne made. Therefore, we calculate:\n   \\[\n   \\text{Cookies made by Josh} = \\frac{1}{4} \\times 36 = 9\n   \\]\n\n3. **Calculate how many cookies Kelsie made:**\n   Kelsie made two times more cookies than Josh. Therefore, we calculate:\n   \\[\n   \\text{Cookies made by Kelsie} = 2 \\times 9 = 18\n   \\]\n\nThus, Kelsie made \\(\\boxed{18}\\) cookies.",
+    "answer": "Josh made 36/4=<<36/4=9>>9 cookies\nKelsie made 9*2=<<9*2=18>>18 cookies\n#### 18"
+}

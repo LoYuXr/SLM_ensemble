@@ -1,0 +1,5 @@
+{
+    "question": "Reggie, Lynn, and Paisley ran together. Paisley ran 4 miles. Reggie ran 5 times what Paisley ran and 3 miles farther than Lynn. How many miles did Lynn run?",
+    "completion": "To determine how many miles Lynn ran, we need to follow these steps:\n\n1. Identify how far Paisley ran.\n2. Use Paisley's distance to find out how far Reggie ran.\n3. Use Reggie's distance to find out how far Lynn ran.\n\nLet's start with the information given:\n- Paisley ran 4 miles.\n- Reggie ran 5 times what Paisley ran.\n- Reggie ran 3 miles farther than Lynn.\n\nFirst, we calculate how far Reggie ran:\n\\[ \\text{Reggie's distance} = 5 \\times \\text{Paisley's distance} = 5 \\times 4 = 20 \\text{ miles} \\]\n\nNext, we know that Reggie ran 3 miles farther than Lynn. Therefore, we can find Lynn's distance by adding 3 miles to Reggie's distance:\n\\[ \\text{Lynn's distance} = \\text{Reggie's distance} + 3 = 20 + 3 = 23 \\text{ miles} \\]\n\nSo, Lynn ran \\(\\boxed{23}\\) miles.",
+    "answer": "Paisley ran <<4=4>>4 miles.\nReggie ran 5 * 4 miles = <<5*4=20>>20 miles\nLynn ran 3 miles less than Reggie = 20 - 3 = 17 miles\nLynn ran <<17=17>>17 miles.\n#### 17"
+}

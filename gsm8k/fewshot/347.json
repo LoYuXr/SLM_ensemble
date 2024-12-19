@@ -1,0 +1,5 @@
+{
+    "question": "Davos bought 2 shirts from the mall that cost $30 each. If he bought them with a 40% discount, how much did Davos pay for the 2 shirts?",
+    "completion": "To determine how much Davos paid for the 2 shirts after a 40% discount, we can follow these steps:\n\n1. Calculate the original cost of one shirt before the discount.\n2. Apply the 40% discount to the original cost.\n3. Calculate the total cost after the discount.\n\nFirst, let's find the original cost of one shirt. Since each shirt costs $30, the original cost is:\n\\[ 30 \\text{ dollars} \\]\n\nNext, we apply the 40% discount to the original cost. A 40% discount means Davos pays 60% of the original cost. So, we calculate 60% of $30:\n\\[ 30 \\times 0.60 = 18 \\text{ dollars} \\]\n\nTherefore, the total amount Davos paid for the 2 shirts after the discount is:\n\\[ 18 \\text{ dollars} \\]\n\nSo, the final answer is:\n\\[ \\boxed{18} \\]",
+    "answer": "The total price of the 2 shirts is $30 x 2 = $<<30*2=60>>60.\nThe total discount on the 2 shirts is $60 x 0.40 = $<<60*0.40=24>>24.\nTherefore, the total amount Davos paid for the 2 shirts is $60 - $24 = $<<60-24=36>>36.\n#### 36"
+}

@@ -1,0 +1,5 @@
+{
+    "question": "Sally buys one small pizza at $8 and one family-size pizza that costs 3 times as much as the small pizza. How much does she spend in all?",
+    "completion": "To determine how much Sally spends in total, we need to calculate the cost of each pizza and then sum them up.\n\n1. The cost of the small pizza is given as $8.\n2. The cost of the family-size pizza is 3 times the cost of the small pizza. Therefore, the cost of the family-size pizza is:\n   \\[\n   3 \\times 8 = 24 \\text{ dollars}\n   \\]\n\n3. To find the total amount Sally spends, we add the cost of the small pizza and the cost of the family-size pizza:\n   \\[\n   8 + 24 = 32 \\text{ dollars}\n   \\]\n\nThus, the total amount Sally spends is \\(\\boxed{32}\\).",
+    "answer": "The cost of the family-size pizza is 3 x $8 = $<<3*8=24>>24.\nTherefore, Sally spends $8 + $24 = $<<8+24=32>>32 in all.\n#### 32"
+}

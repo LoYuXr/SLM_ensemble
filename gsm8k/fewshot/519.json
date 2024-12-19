@@ -1,0 +1,5 @@
+{
+    "question": "Royce takes 40 minutes more than double Rob to shingle a house. If Rob takes 2 hours, how many minutes does Royce take?",
+    "completion": "To determine how many minutes Royce takes to shingle the house, we start by calculating the time it takes Rob to shingle the house. Since Rob takes 2 hours to shingle the house, we convert this time into minutes:\n\n\\[ 2 \\text{ hours} = 2 \\times 60 = 120 \\text{ minutes} \\]\n\nNext, we know that Royce takes 40 minutes more than double Rob's time to shingle the house. First, we calculate double Rob's time:\n\n\\[ 2 \\times 120 = 240 \\text{ minutes} \\]\n\nThen, we add 40 minutes to this double time to find out how many minutes Royce takes:\n\n\\[ 240 + 40 = 280 \\text{ minutes} \\]\n\nTherefore, the number of minutes Royce takes to shingle the house is:\n\n\\[ \\boxed{280} \\]",
+    "answer": "Convert 2 hours to min: 2(60)=120 minutes\nRoyce takes 40+2(120)=280 minutes\n#### 280"
+}

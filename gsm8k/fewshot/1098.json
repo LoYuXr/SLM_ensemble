@@ -1,0 +1,5 @@
+{
+    "question": "Jeff is 10 years older than his younger sister, Martha. Martha, on the other hand, is 4 years younger than her boyfriend, Mike. If Mike is 24 years old, how old is Jeff?",
+    "completion": "To determine Jeff's age, we need to follow the relationships given in the problem step by step.\n\n1. **Identify Mike's age:**\n   Mike is 24 years old.\n\n2. **Determine Martha's age:**\n   Martha is 4 years younger than Mike. Therefore, we subtract 4 years from Mike's age:\n   \\[\n   \\text{Martha's age} = 24 - 4 = 20\n   \\]\n\n3. **Determine Jeff's age:**\n   Jeff is 10 years older than Martha. Therefore, we add 10 years to Martha's age:\n   \\[\n   \\text{Jeff's age} = 20 + 10 = 30\n   \\]\n\nThus, Jeff is \\(\\boxed{30}\\) years old.",
+    "answer": "Martha is 24 - 4 = <<24-4=20>>20 years old.\nJeff is 20 + 10 =<<20+10=30>>30 years old.\n#### 30"
+}

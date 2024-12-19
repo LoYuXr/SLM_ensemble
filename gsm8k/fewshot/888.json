@@ -1,0 +1,5 @@
+{
+    "question": "Lani baked 55 cookies. She ate 5 five cookies and placed the rest equally into five jars. How many cookies were in each jar?",
+    "completion": "To determine how many cookies were in each jar, we need to follow these steps:\n\n1. Calculate the number of cookies Lani ate.\n2. Subtract the number of cookies eaten from the total number of cookies to find out how many cookies were left.\n3. Divide the remaining cookies equally into five jars.\n\nFirst, Lani ate 5 five cookies. So, the number of cookies left is:\n\\[ 55 - 5 = 50 \\]\n\nNext, we need to divide the remaining 50 cookies equally into five jars. So, the number of cookies in each jar is:\n\\[ 50 \\div 5 = 10 \\]\n\nTherefore, the number of cookies in each jar is \\(\\boxed{10}\\).",
+    "answer": "There were 55 - 5 = <<55-5=50>>50 cookies left after she ate five cookies.\nTherefore, there were 50/5 = <<50/5=10>>10 cookies in each jar.\n#### 10"
+}

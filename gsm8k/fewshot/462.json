@@ -1,0 +1,5 @@
+{
+    "question": "Ali had $21. Leila gave him half of her $100. How much does Ali have now?",
+    "completion": "Leila gave Ali half of her $100, which is $100 / 2 = $50.\n\nSo, Ali now has $21 (his original amount) + $50 (what Leila gave him) = $71.\n\nTherefore, Ali has $71 now.",
+    "answer": "Leila gave 100/2 = $<<100/2=50>>50 to Ali.\nAli now has $21+ $50 = $<<21+50=71>>71.\n#### 71"
+}

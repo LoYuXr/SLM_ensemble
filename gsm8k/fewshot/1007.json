@@ -1,0 +1,5 @@
+{
+    "question": "Two friends are playing pick-up sticks. While playing, they noticed that there are 9 red sticks, and 5 more blue sticks than red. Also, the number of yellow sticks is 3 less than the blue sticks. How many sticks do they have?",
+    "completion": "To determine the total number of sticks, we need to calculate the number of each type of stick and then sum them up.\n\n1. **Number of red sticks:**\n   \\[\n   \\text{Number of red sticks} = 9\n   \\]\n\n2. **Number of blue sticks:**\n   \\[\n   \\text{Number of blue sticks} = \\text{Number of red sticks} + 5 = 9 + 5 = 14\n   \\]\n\n3. **Number of yellow sticks:**\n   \\[\n   \\text{Number of yellow sticks} = \\text{Number of blue sticks} - 3 = 14 - 3 = 11\n   \\]\n\n4. **Total number of sticks:**\n   \\[\n   \\text{Total number of sticks} = \\text{Number of red sticks} + \\text{Number of blue sticks} + \\text{Number of yellow sticks} = 9 + 14 + 11 = 34\n   \\]\n\nThus, the total number of sticks is \\(\\boxed{34}\\).",
+    "answer": "There are 9 + 5 = <<9+5=14>>14 blue sticks.\nThere are 14 - 3 = <<14-3=11>>11 yellow sticks.\nThere are a total of 9 + 14 + 11 = <<9+14+11=34>>34 sticks.\n#### 34"
+}

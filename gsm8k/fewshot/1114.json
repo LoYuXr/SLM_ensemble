@@ -1,0 +1,5 @@
+{
+    "question": "Raymond had $21. Then he saved $11 from his allowance and spent $5 on a comic book and $19 on a puzzle. How much money does Raymond have left?",
+    "completion": "To determine how much money Raymond has left, we need to follow these steps:\n\n1. Start with the initial amount of money Raymond had.\n2. Add the amount he saved from his allowance.\n3. Subtract the amount he spent on the comic book.\n4. Subtract the amount he spent on the puzzle.\n\nLet's go through each step in detail:\n\n1. Raymond initially had $21.\n2. He saved $11 from his allowance, so we add $11 to his initial amount:\n   \\[\n   21 + 11 = 32\n   \\]\n   Now Raymond has $32.\n3. He spent $5 on a comic book, so we subtract $5 from his current amount:\n   \\[\n   32 - 5 = 27\n   \\]\n   Now Raymond has $27.\n4. He spent $19 on a puzzle, so we subtract $19 from his current amount:\n   \\[\n   27 - 19 = 8\n   \\]\n   Now Raymond has $8.\n\nTherefore, the amount of money Raymond has left is \\boxed{8}.",
+    "answer": "Raymond started with $21 + $11 = $<<21+11=32>>32.\nRaymond then spent $5 + $19 = $<<5+19=24>>24.\nRaymond now has $32 - $24 = $<<32-24=8>>8 left.\n#### 8"
+}

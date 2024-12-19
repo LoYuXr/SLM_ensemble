@@ -1,0 +1,5 @@
+{
+    "question": "Jeff\u2019s work is 3 miles away.  He walks there and back each day he works.  How many miles does he walk if he has to work 5 times a week?",
+    "completion": "To determine the total number of miles Jeff walks in a week, we need to break down the problem step by step.\n\n1. **Distance to Work:**\n   Jeff's work is 3 miles away.\n\n2. **Distance Back Home:**\n   Since he walks to work and back home each day, the total distance for one day is:\n   \\[\n   3 \\text{ miles (to work)} + 3 \\text{ miles (back home)} = 6 \\text{ miles}\n   \\]\n\n3. **Number of Work Days in a Week:**\n   Jeff works 5 times a week.\n\n4. **Total Distance for a Week:**\n   To find the total distance Jeff walks in a week, we multiply the distance for one day by the number of days he works in a week:\n   \\[\n   6 \\text{ miles/day} \\times 5 \\text{ days/week} = 30 \\text{ miles/week}\n   \\]\n\nTherefore, the total number of miles Jeff walks in a week is \\(\\boxed{30}\\).",
+    "answer": "He has to walk 3*2=<<3*2=6>>6 miles per workday\nThat means he walks 6*5=<<6*5=30>>30 miles a week\n#### 30"
+}

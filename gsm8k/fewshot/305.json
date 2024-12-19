@@ -1,0 +1,5 @@
+{
+    "question": "John arm wrestles 20 people.  He beats 80%.  How many people did he lose to?",
+    "completion": "To determine how many people John beat, we start by calculating the number of people he beat. John beats 80% of the 20 people he arm wrestles. We can find this number by multiplying 20 by 80%.\n\n\\[ 20 \\times 0.80 = 16 \\]\n\nSo, John beats 16 people. To find out how many people he lost, we subtract the number of people he beat from the total number of people he arm wrestles:\n\n\\[ 20 - 16 = 4 \\]\n\nTherefore, John lost \\(\\boxed{4}\\) people to.",
+    "answer": "He beats 20*.8=<<20*.8=16>>16 people\nSo he loses to 20-16=<<20-16=4>>4 people\n#### 4"
+}

@@ -1,0 +1,5 @@
+{
+    "question": "A farmer has 900 eggs. He placed them on a tray, which holds 30 eggs each. How much will the farmer earn if he sells it for $2.5 per tray?",
+    "completion": "To determine how much the farmer will earn from selling the eggs, we need to follow these steps:\n\n1. Calculate the total number of trays the farmer can fill with 900 eggs.\n2. Determine the total revenue from selling all the trays at $2.5 per tray.\n\nFirst, we calculate the total number of trays:\n\\[\n\\text{Total number of trays} = \\frac{\\text{Total number of eggs}}{\\text{Number of eggs per tray}} = \\frac{900}{30} = 30\n\\]\n\nNext, we calculate the total revenue:\n\\[\n\\text{Total revenue} = \\text{Total number of trays} \\times \\text{Price per tray} = 30 \\times 2.5 = 75\n\\]\n\nTherefore, the farmer will earn \\(\\boxed{75}\\) dollars.",
+    "answer": "There are 900 / 30 = <<900/30=30>>30 trays that hold 900 eggs.\nSo, the farmer will earn 30 x $2.5 = $<<30*2.5=75>>75 if he sells it per tray.\n#### 75"
+}

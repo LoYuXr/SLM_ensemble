@@ -1,0 +1,5 @@
+{
+    "question": "A mother goes shopping. She buys cocoa at $4.20, laundry at $9.45 and a package of pasta at $1.35. She pays $20. How much change does the cashier give back?",
+    "completion": "To calculate the change the cashier gives back, we need to subtract the total amount spent from the amount paid by the mother. Let's break it down step by step:\n\n1. **Total amount spent:**\n   - Cocoa: $4.20\n   - Laundry: $9.45\n   - Pasta: $1.35\n   - Total = $4.20 + $9.45 + $1.35 = $15.00\n\n2. **Amount paid:**\n   - Amount paid by the mother: $20.00\n\n3. **Change calculation:**\n   - Change = Amount paid - Total amount spent\n   - Change = $20.00 - $15.00 = $5.00\n\nTherefore, the cashier gives back $5.00 in change.",
+    "answer": "The total shopping cost is $4.2 + $9.45 + $1.35 = $<<4.2+9.45+1.35=15>>15.\nThe cashier gives back $20 - 1$5 = $<<20-15=5>>5.\n#### 5"
+}

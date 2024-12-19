@@ -1,0 +1,5 @@
+{
+    "question": "In a candy machine, there are 22 more than four times the number of pink gumballs as there are blue gumballs. If there are 12 blue gumballs how many pink ones are there?",
+    "completion": "To determine the number of pink gumballs in the candy machine, we start by defining the relationship between the number of pink gumballs and blue gumballs. According to the problem, there are 22 more than four times the number of pink gumballs as there are blue gumballs. We are given that there are 12 blue gumballs.\n\nLet's denote the number of pink gumballs by \\( P \\). The relationship can be expressed as:\n\\[ P = 4 \\times \\text{(number of blue gumballs)} + 22 \\]\n\nSince the number of blue gumballs is 12, we substitute 12 for the number of blue gumballs in the equation:\n\\[ P = 4 \\times 12 + 22 \\]\n\nNext, we perform the multiplication:\n\\[ P = 48 + 22 \\]\n\nThen, we add the numbers together:\n\\[ P = 70 \\]\n\nTherefore, the number of pink gumballs is \\(\\boxed{70}\\).",
+    "answer": "Four times the number of blue gumballs is 12*4=<<12*4=48>>48 gumballs\nThere are 48+22=<<48+22=70>>70 pink gumballs\n#### 70"
+}

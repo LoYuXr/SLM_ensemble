@@ -1,0 +1,5 @@
+{
+    "question": "Brandon's iPhone is four times as old as Ben's iPhone. Ben's iPhone is two times older than Suzy's iPhone. If Suzy\u2019s iPhone is 1 year old, how old is Brandon\u2019s iPhone?",
+    "completion": "To determine the age of Brandon's iPhone, we need to follow the relationships given in the problem step by step.\n\n1. **Identify the age of Suzy's iPhone:**\n   Suzy's iPhone is given as 1 year old.\n\n2. **Determine the age of Ben's iPhone:**\n   The problem states that Ben's iPhone is two times older than Suzy's iPhone. Therefore, we calculate:\n   \\[\n   \\text{Age of Ben's iPhone} = 2 \\times \\text{Age of Suzy's iPhone} = 2 \\times 1 = 2 \\text{ years}\n   \\]\n\n3. **Determine the age of Brandon's iPhone:**\n   The problem states that Brandon's iPhone is four times as old as Ben's iPhone. Therefore, we calculate:\n   \\[\n   \\text{Age of Brandon's iPhone} = 4 \\times \\text{Age of Ben's iPhone} = 4 \\times 2 = 8 \\text{ years}\n   \\]\n\nThus, the age of Brandon's iPhone is \\(\\boxed{8}\\).",
+    "answer": "Ben\u2019s iPhone is 1*2 = <<1*2=2>>2 years old.\nBrandon\u2019s iPhone is 4*2 = <<4*2=8>>8 years old.\n#### 8"
+}

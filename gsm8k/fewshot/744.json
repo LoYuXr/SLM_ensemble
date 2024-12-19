@@ -1,0 +1,5 @@
+{
+    "question": "Melissa works as a pet groomer. This week, she has 8 dogs that need to be bathed, 5 cats that need their nails clipped, 3 birds that need their wings trimmed, and 12 horses that need to be brushed. If she splits the grooming jobs evenly over the days, how many animals will she groom each day of the week?",
+    "completion": "To determine how many animals Melissa will groom each day, we first need to calculate the total number of animals she needs to groom. We do this by adding up the number of dogs, cats, birds, and horses:\n\n\\[\n8 \\text{ (dogs)} + 5 \\text{ (cats)} + 3 \\text{ (birds)} + 12 \\text{ (horses)} = 28 \\text{ animals}\n\\]\n\nNext, we need to divide the total number of animals by the number of days in a week to find out how many animals she will groom each day. There are 7 days in a week:\n\n\\[\n28 \\text{ animals} \\div 7 \\text{ days} = 4 \\text{ animals per day}\n\\]\n\nTherefore, Melissa will groom \\(\\boxed{4}\\) animals each day of the week.",
+    "answer": "Melissa has 8 + 5 + 3 + 12 = <<8+5+3+12=28>>28 animals to groom over the next week.\nTherefore, She will groom 28 / 7 = <<28/7=4>>4 animals each day.\n#### 4"
+}

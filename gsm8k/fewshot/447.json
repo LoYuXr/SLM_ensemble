@@ -1,0 +1,5 @@
+{
+    "question": "Joey has 214 points before his turn in Scrabble. He scores 26 points. Then Marcy, who has 225 points, scores 10 points. By how many points is Joey now winning?",
+    "completion": "To determine by how many points Joey is now winning, we need to follow these steps:\n\n1. Calculate Joey's new score after scoring 26 points.\n2. Calculate Marcy's new score after scoring 10 points.\n3. Find the difference between Joey's new score and Marcy's new score.\n\nLet's start with Joey's new score:\nJoey's initial score is 214 points. After scoring 26 points, his new score is:\n\\[ 214 + 26 = 240 \\]\n\nNext, let's calculate Marcy's new score:\nMarcy's initial score is 225 points. After scoring 10 points, her new score is:\n\\[ 225 + 10 = 235 \\]\n\nNow, we find the difference between Joey's new score and Marcy's new score:\n\\[ 240 - 235 = 5 \\]\n\nTherefore, Joey is now winning by \\(\\boxed{5}\\) points.",
+    "answer": "Joey now has 214+26=<<214+26=240>>240.\nMarcy now has 225+10=<<225+10=235>>235.\nAnd 240-235=<<240-235=5>>5.\n#### 5"
+}

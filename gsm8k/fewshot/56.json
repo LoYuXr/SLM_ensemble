@@ -1,0 +1,5 @@
+{
+    "question": "Peter plans to go to the movies this week. He always gets a ticket for $7 and popcorn for $7. If he has 42 dollars for the week, how many times can he go to the movies?",
+    "completion": "To determine how many times Peter can go to the movies, we need to calculate the total cost of one movie ticket and one popcorn, and then see how many such tickets he can buy with his 42 dollars.\n\nFirst, let's calculate the cost of one movie ticket and one popcorn:\n- The cost of one movie ticket is $7.\n- The cost of one popcorn is $7.\n\nSo, the total cost for one movie ticket and one popcorn is:\n\\[ 7 + 7 = 14 \\text{ dollars} \\]\n\nNext, we need to determine how many times Peter can buy 14 dollars worth of tickets and popcorn. We do this by dividing the total amount of money Peter has by the cost of one movie ticket and one popcorn:\n\\[ \\frac{42}{14} = 3 \\]\n\nTherefore, Peter can go to the movies \\(\\boxed{3}\\) times.",
+    "answer": "It costs him $14 to go to the movies because 7 + 7 = <<7+7=14>>14\nHe can go to the movies 3 times because 42 / 14 = <<42/14=3>>3\n#### 3"
+}

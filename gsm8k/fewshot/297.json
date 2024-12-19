@@ -1,0 +1,5 @@
+{
+    "question": "Sam sells bread. He has a target of selling 120 crates of bread in a week. One week he was closed on Monday and Friday. Over the weekend he sold 20 crates. On Tuesday he sold 15 crates, on Wednesday 12 crates, and Thursday 18 crates. By how many crates was Sam off from his target for the week?",
+    "completion": "To determine how many crates Sam was off from his target for the week, we need to calculate the total number of crates he sold over the week and then compare it to his target of 120 crates.\n\nFirst, let's calculate the total number of crates sold over the week:\n\n- Monday: 20 crates\n- Tuesday: 15 crates\n- Wednesday: 12 crates\n- Thursday: 18 crates\n\nAdding these together:\n\\[ 20 + 15 + 12 + 18 = 65 \\]\n\nSo, Sam sold a total of 65 crates over the week.\n\nNext, we compare this total to Sam's target of 120 crates:\n\\[ 120 - 65 = 55 \\]\n\nTherefore, Sam was off by 55 crates from his target for the week.",
+    "answer": "During the whole week Sam sold 15 + 12 + 18 + 20 = <<15+12+18+20=65>>65 crates.\nSam was off his target by 120 - 65 = <<120-65=55>>55 crates.\n#### 55"
+}

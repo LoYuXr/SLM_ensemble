@@ -1,0 +1,5 @@
+{
+    "question": "While on vacation in Bali, Thea bought a hat from a craftsman worth $70. If she gave the craftsman four $20 bills, how much change did she get?",
+    "completion": "To determine how much change Thea received, we need to follow these steps:\n\n1. Calculate the total amount of money Thea gave to the craftsman.\n2. Subtract this total from the original amount of money Thea paid to the craftsman.\n\nFirst, let's calculate the total amount of money Thea gave to the craftsman. She gave four $20 bills:\n\\[ 4 \\times 20 = 80 \\]\n\nNext, we subtract this total from the original amount of $70 that Thea paid:\n\\[ 70 - 80 = -10 \\]\n\nSince the result is negative, it means Thea did not have enough money to give the craftsman the $20 bills. Therefore, Thea would not receive any change.\n\nThe change Thea would get is:\n\\[ \\boxed{0} \\]",
+    "answer": "If she gave the craftsman four $20 bills, the total amount of money she gave to the craftsman is 4*$20 = $<<4*20=80>>80.\nSince the hat was worth $70, the craftsman gave her change equal to $80-$70=$10\n#### 10"
+}

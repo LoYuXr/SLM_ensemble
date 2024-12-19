@@ -1,0 +1,5 @@
+{
+    "question": "Two candidates are running for class representative at Sarai's school. If the winner got 3/4 of the votes and the total number of students who voted in the class was 80, calculate the number of votes the loser got.",
+    "completion": "To determine the number of votes the loser got, we start by understanding the given information:\n\n1. The total number of students who voted in the class is 80.\n2. The winner got \\(\\frac{3}{4}\\) of the votes.\n\nFirst, we calculate the number of votes the winner received:\n\\[\n\\text{Votes for the winner} = \\frac{3}{4} \\times 80 = \\frac{3 \\times 80}{4} = \\frac{240}{4} = 60\n\\]\n\nNext, we find the number of votes the loser received by subtracting the votes of the winner from the total number of votes:\n\\[\n\\text{Votes for the loser} = 80 - 60 = 20\n\\]\n\nThus, the number of votes the loser got is \\(\\boxed{20}\\).",
+    "answer": "The winner got 3/4*80 = <<3/4*80=60>>60 votes.\nThe loser got 80-60 = <<80-60=20>>20 votes.\n#### 20"
+}

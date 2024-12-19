@@ -1,0 +1,5 @@
+{
+    "question": "Marcus is half of Leo\u2019s age and five years younger than Deanna. Deanna is 26. How old is Leo?",
+    "completion": "To determine Leo's age, we need to follow the information given step by step.\n\n1. We know that Deanna is 26 years old.\n2. Marcus is half of Leo's age.\n3. Marcus is five years younger than Deanna.\n\nFirst, let's find out how old Marcus is. Since Marcus is half of Leo's age, we can calculate Marcus's age as follows:\n\\[\n\\text{Marcus's age} = \\frac{1}{2} \\times \\text{Leo's age} = \\frac{1}{2} \\times 26 = 13\n\\]\nSo, Marcus is 13 years old.\n\nNext, we know that Marcus is five years younger than Deanna. Since Deanna is 26 years old, we can find Marcus's age by subtracting 5 from Deanna's age:\n\\[\n\\text{Marcus's age} = \\text{Deanna's age} - 5 = 26 - 5 = 21\n\\]\nSo, Leo is 21 years old.\n\nTherefore, Leo's age is \\boxed{21}.",
+    "answer": "Marcus is 26 - 5 = <<26-5=21>>21 years old.\nThus, Leo is 21 * 2 = <<21*2=42>>42 years old.\n#### 42"
+}

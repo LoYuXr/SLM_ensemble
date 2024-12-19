@@ -1,0 +1,5 @@
+{
+    "question": "Tommy caught 3 more fish than Darren and Darren caught 6 less than Naomi. If Naomi caught 17 fish, how many fish did Tommy catch?",
+    "completion": "To determine how many fish Tommy caught, we need to follow the relationships given in the problem step by step.\n\n1. **Identify the number of fish Naomi caught:**\n   Naomi caught 17 fish.\n\n2. **Determine how many fish Darren caught:**\n   Darren caught 6 less than Naomi. Therefore, we subtract 6 from the number of fish Naomi caught:\n   \\[\n   \\text{Number of fish Darren caught} = 17 - 6 = 11\n   \\]\n\n3. **Determine how many fish Tommy caught:**\n   Tommy caught 3 more fish than Darren. Therefore, we add 3 to the number of fish Darren caught:\n   \\[\n   \\text{Number of fish Tommy caught} = 11 + 3 = 14\n   \\]\n\nThus, the number of fish Tommy caught is \\(\\boxed{14}\\).",
+    "answer": "Darren caught 17 - 6 = <<17-6=11>>11 fish\nTommy caught 11 + 3 = <<11+3=14>>14 fish\n#### 14"
+}

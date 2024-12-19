@@ -1,0 +1,5 @@
+{
+    "question": "Given a 7-day week, how much does Alex charge for 2 weeks of tutoring if she charges $12 per day?",
+    "completion": "To determine how much Alex charges for 2 weeks of tutoring, we need to follow these steps:\n\n1. Calculate the total number of days in 2 weeks.\n2. Multiply the total number of days by the hourly rate to find the total tutoring fee.\n\nFirst, let's calculate the total number of days in 2 weeks:\n- There are 7 days in a week.\n- Therefore, in 2 weeks, there are \\(2 \\times 7 = 14\\) days.\n\nNext, we need to find out how much Alex charges per day. According to the problem, she charges $12 per day.\n\nNow, we multiply the total number of days by the hourly rate:\n- Alex charges $12 per day.\n- There are 14 days in 2 weeks.\n- Therefore, the total tutoring fee is \\(12 \\times 14 = 168\\) dollars.\n\nSo, Alex charges \\(\\boxed{168}\\) dollars for 2 weeks of tutoring.",
+    "answer": "A week has 7 days, therefore 2 weeks have 2*7= <<2*7=14>>14 days\nIf Alex charges $12 per day, then in $14 days she would charge $12*14 = $<<12*14=168>>168\n#### 168"
+}

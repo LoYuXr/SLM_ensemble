@@ -1,0 +1,5 @@
+{
+    "question": "Nick, Richard, Jason and DJ each have paintball guns. DJ has 8 guns, Nick has 10 guns, RJ has 1 gun and Richard has 5 guns. If they were to share their guns equally, how many guns would each of them have?",
+    "completion": "To determine how many guns each person would have if they were to share them equally, we need to follow these steps:\n\n1. **Calculate the total number of guns:**\n   - DJ has 8 guns.\n   - Nick has 10 guns.\n   - RJ has 1 gun.\n   - Richard has 5 guns.\n\n   Adding these together:\n   \\[\n   8 + 10 + 1 + 5 = 24\n   \\]\n\n2. **Determine the number of people sharing the guns:**\n   - There are 4 people: Nick, Richard, DJ, and RJ.\n\n3. **Divide the total number of guns by the number of people:**\n   \\[\n   \\frac{24}{4} = 6\n   \\]\n\nTherefore, if they were to share their guns equally, each person would have 6 guns.",
+    "answer": "The total number of guns is 8+10+1+5=<<8+10+1+5=24>>24 guns.\nThey would each have 24/4=<<24/4=6>>6 guns.\n#### 6"
+}

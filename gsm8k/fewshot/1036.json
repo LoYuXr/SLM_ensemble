@@ -1,0 +1,5 @@
+{
+    "question": "There are forty apples in one box. Uncle Franky ordered two boxes of apples. He is planning to pack the apples with eight apples in one pack. How many packs of apples can he make with the two boxes of apples?",
+    "completion": "To determine how many packs of apples Uncle Franky can make, we need to follow these steps:\n\n1. Calculate the total number of apples in the two boxes.\n2. Determine how many packs of eight apples can be made from the total number of apples.\n\nFirst, we calculate the total number of apples in the two boxes:\n\\[ 40 \\text{ apples/box} \\times 2 \\text{ boxes} = 80 \\text{ apples} \\]\n\nNext, we need to find out how many packs of eight apples can be made from 80 apples. We do this by dividing the total number of apples by the number of apples per pack:\n\\[ 80 \\text{ apples} \\div 8 \\text{ apples/pack} = 10 \\text{ packs} \\]\n\nTherefore, Uncle Franky can make \\(\\boxed{10}\\) packs of apples.",
+    "answer": "There are 2 x 40 = <<2*40=80>>80 apples in two boxes.\nTherefore, Uncle Franky makes 80/8 = <<80/8=10>>10 packs of apples.\n#### 10"
+}

@@ -1,0 +1,5 @@
+{
+    "question": "Bob spends $27000 distributed between 3 schools to buy books.  He can buy 100 books for $500.  How many books can he buy per school?",
+    "completion": "To determine how many books Bob can buy per school, we need to follow these steps:\n\n1. **Calculate the total number of books Bob can buy with his $27,000:**\n   - Bob can buy 100 books for $500.\n   - Therefore, the cost per book is:\n     \\[\n     \\frac{500}{100} = 5 \\text{ dollars per book}\n     \\]\n\n2. **Determine how many books Bob can buy with his $27,000:**\n   - With $27,000, Bob can buy:\n     \\[\n     \\frac{27,000}{5} = 5,400 \\text{ books}\n     \\]\n\n3. **Calculate how many books Bob can buy per school:**\n   - Bob has 3 schools.\n   - Therefore, the number of books he can buy per school is:\n     \\[\n     \\frac{5,400}{3} = 1,800 \\text{ books per school}\n     \\]\n\nThus, Bob can buy \\(\\boxed{1800}\\) books per school.",
+    "answer": "He spends 27000/3=$<<27000/3=9000>>9000\nEach book cost 500/100=$<<500/100=5>>5\nSo he can buy 9000/5=<<9000/5=1800>>1800 books per school\n#### 1800"
+}

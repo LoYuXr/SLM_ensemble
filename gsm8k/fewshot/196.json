@@ -1,0 +1,5 @@
+{
+    "question": "200 pounds of carrots are to be distributed to 40 restaurants in a certain city. Each restaurant is to receive 2 pounds of carrots. How many pounds of carrots will not be used?",
+    "completion": "To determine how many pounds of carrots will not be used, we need to follow these steps:\n\n1. Calculate the total amount of carrots that will be distributed to the 40 restaurants.\n2. Subtract the total amount of carrots distributed from the total amount of carrots available.\n\nFirst, we calculate the total amount of carrots distributed:\n\\[\n40 \\text{ restaurants} \\times 2 \\text{ pounds per restaurant} = 80 \\text{ pounds}\n\\]\n\nNext, we subtract the total amount of carrots distributed from the total amount of carrots available:\n\\[\n200 \\text{ pounds} - 80 \\text{ pounds} = 120 \\text{ pounds}\n\\]\n\nTherefore, the number of pounds of carrots that will not be used is:\n\\[\n\\boxed{120}\n\\]",
+    "answer": "The restaurants need 40 * 2 = <<40*2=80>>80 lbs. of carrots.\nSo 200 - 80 = <<200-80=120>>120 lbs. of carrots will not be used.\n#### 120"
+}

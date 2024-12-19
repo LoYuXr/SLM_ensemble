@@ -1,0 +1,5 @@
+{
+    "question": "Chenny is 10 years old. Alyana is 4 years younger than Chenny. How old is Anne if she is 2 years older than Alyana?",
+    "completion": "To determine Anne's age, we need to follow these steps:\n\n1. Determine Alyana's age.\n2. Use Alyana's age to find Anne's age.\n\nFirst, we know that Chenny is 10 years old. Alyana is 4 years younger than Chenny. Therefore, we can calculate Alyana's age as follows:\n\\[ \\text{Alyana's age} = \\text{Chenny's age} - 4 = 10 - 4 = 6 \\]\n\nNext, we know that Anne is 2 years older than Alyana. Therefore, we can calculate Anne's age as follows:\n\\[ \\text{Anne's age} = \\text{Alyana's age} + 2 = 6 + 2 = 8 \\]\n\nSo, Anne is \\(\\boxed{8}\\) years old.",
+    "answer": "Alyana is 10 - 4 = <<10-4=6>>6 years old.\nSo, Anne is 6 + 2 = <<6+2=8>>8 years old.\n#### 8"
+}

@@ -1,0 +1,5 @@
+{
+    "question": "Amber, Micah, and Ahito ran 52 miles in total. Amber ran 8 miles. Micah ran 3.5 times what Amber ran. How many miles did Ahito run?",
+    "completion": "To determine how many miles Ahito ran, we need to follow these steps:\n\n1. Identify the distance Amber ran.\n2. Calculate the distance Micah ran.\n3. Subtract the distances run by Amber and Micah from the total distance to find out how far Ahito ran.\n\nFirst, we know that Amber ran 8 miles. According to the problem, Micah ran 3.5 times what Amber ran. So, we calculate the distance Micah ran as follows:\n\\[\n\\text{Distance Micah ran} = 3.5 \\times 8 = 28 \\text{ miles}\n\\]\n\nNext, we know the total distance run by all three runners is 52 miles. To find out how far Ahito ran, we subtract the distances run by Amber and Micah from the total distance:\n\\[\n\\text{Distance Ahito ran} = 52 - (8 + 28) = 52 - 36 = 16 \\text{ miles}\n\\]\n\nTherefore, the number of miles Ahito ran is \\boxed{16}.",
+    "answer": "Amber ran <<8=8>>8 miles.\nMicah ran 3.5 * 8 miles = <<3.5*8=28>>28 miles\nAhito ran the rest = 52 - 8 - 28 = <<52-8-28=16>>16 miles\nAhito ran <<16=16>>16 miles.\n#### 16"
+}

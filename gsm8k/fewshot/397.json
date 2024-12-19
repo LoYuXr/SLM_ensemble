@@ -1,0 +1,5 @@
+{
+    "question": "Mark has $50 in his bank account. He earns $10 per day at his work. If he wants to buy a bike that costs $300, how many days does Mark have to save his money?",
+    "completion": "To determine how many days Mark needs to save his money to buy a bike that costs $300, we can follow these steps:\n\n1. **Calculate the total amount Mark needs to save:**\n   The bike costs $300, and Mark has $50 in his bank account.\n   \\[\n   \\text{Total amount needed} = \\$300\n   \\]\n\n2. **Determine how much Mark earns per day:**\n   Mark earns $10 per day at his work.\n\n3. **Calculate the number of days Mark needs to save:**\n   To find out how many days Mark needs to save $300, we divide the total amount needed by the amount Mark earns per day.\n   \\[\n   \\text{Number of days} = \\frac{\\text{Total amount needed}}{\\text{Amount earned per day}} = \\frac{300}{10} = 30\n   \\]\n\nTherefore, Mark needs to save for \\boxed{30} days to buy the bike.",
+    "answer": "Mike has $50 in his bank account, so the amount he needs to save to reach the bike goal is $300 - $50 = $250\nHe earns $10 per day, so $250 / $10/day = <<250/10=25>>25 days\n#### 25"
+}

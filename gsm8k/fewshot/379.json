@@ -1,0 +1,5 @@
+{
+    "question": "Rachel bought 23 cookies and Janet gave her 42 cookies. The other day her brother ate 44 of those cookies. How many cookies are left for Rachel?",
+    "completion": "To determine how many cookies are left for Rachel, we need to follow these steps:\n\n1. Start with the total number of cookies Rachel initially bought.\n2. Add the number of cookies Janet gave her.\n3. Subtract the number of cookies her brother ate.\n\nLet's go through the calculations step by step:\n\n1. Rachel initially bought 23 cookies.\n2. Janet gave her 42 cookies.\n3. Her brother ate 44 cookies.\n\nFirst, we add the cookies Janet gave her to the cookies Rachel initially bought:\n\\[ 23 + 42 = 65 \\]\n\nNext, we subtract the cookies her brother ate from the total number of cookies:\n\\[ 65 - 44 = 21 \\]\n\nSo, the number of cookies left for Rachel is \\(\\boxed{21}\\).",
+    "answer": "The number of Rachel's cookies is 23 + 42 = <<23+42=65>>65 cookies.\nAfter her brother\u2019s feast, she was left with 65 \u2013 44 = <<65-44=21>>21 cookies.\n#### 21"
+}

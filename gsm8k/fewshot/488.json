@@ -1,0 +1,5 @@
+{
+    "question": "Jana has 27 puppies. Two thirds of Jana's puppies are Pomeranians. One third of the Pomeranians are girls. How many girl Pomeranians does Jana have?",
+    "completion": "To determine how many girl Pomeranians Jana has, we need to follow these steps:\n\n1. Calculate the total number of Pomeranians.\n2. Determine how many of these Pomeranians are girls.\n\nFirst, we know that two thirds of Jana's puppies are Pomeranians. Since Jana has 27 puppies, we can calculate the number of Pomeranians as follows:\n\\[\n\\text{Number of Pomeranians} = \\frac{2}{3} \\times 27 = 18\n\\]\nSo, Jana has 18 Pomeranians.\n\nNext, we know that one third of the Pomeranians are girls. Therefore, we can calculate the number of girl Pomeranians as follows:\n\\[\n\\text{Number of girl Pomeranians} = \\frac{1}{3} \\times 18 = 6\n\\]\nSo, Jana has \\boxed{6} girl Pomeranians.",
+    "answer": "Jana has 27/3*2=<<27/3*2=18>>18 Pomeranians.\nJana has 18/3=<<18/3=6>>6 girl Pomeranians.\n#### 6"
+}

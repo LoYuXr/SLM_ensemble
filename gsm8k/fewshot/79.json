@@ -1,0 +1,5 @@
+{
+    "question": "John adopts a dog.  He takes the dog to the groomer, which costs $100.  The groomer offers him a 30% discount for being a new customer.  How much does the grooming cost?",
+    "completion": "To determine the cost of the grooming service, we need to calculate the discount and subtract it from the original cost. Here are the steps:\n\n1. Identify the original cost of the grooming service.\n   The original cost is $100.\n\n2. Determine the discount offered by the groomer.\n   The groomer offers a 30% discount.\n\n3. Calculate the discount amount.\n   The discount amount is calculated by multiplying the original cost by the discount percentage.\n   \\[\n   \\text{Discount amount} = 100 \\times \\frac{30}{100} = 100 \\times 0.30 = 30\n   \\]\n\n4. Subtract the discount amount from the original cost to find the final cost.\n   \\[\n   \\text{Final cost} = 100 - 30 = 70\n   \\]\n\nTherefore, the cost of the grooming service is \\(\\boxed{70}\\).",
+    "answer": "The groomer gave a 100*.3=$<<100*.3=30>>30 discount\nSo the grooming cost 100-30=$<<100-30=70>>70\n#### 70"
+}

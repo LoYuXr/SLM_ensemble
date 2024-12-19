@@ -1,0 +1,5 @@
+{
+    "question": "At a certain grade level, three-fourths of students have a desktop computer at home. If 20 students do not have desktop computers, how many students are there at that grade level?",
+    "completion": "To determine the total number of students at the grade level, we start by defining the total number of students as \\( x \\).\n\nAccording to the problem, three-fourths of the students have a desktop computer at home. This means that the remaining one-fourth of the students do not have a desktop computer. We are given that 20 students do not have desktop computers. Therefore, we can set up the following equation to represent this relationship:\n\n\\[\n\\frac{1}{4} x = 20\n\\]\n\nTo find \\( x \\), we need to solve for \\( x \\) by isolating it on one side of the equation. We do this by multiplying both sides of the equation by 4:\n\n\\[\nx = 20 \\times 4\n\\]\n\n\\[\nx = 80\n\\]\n\nThus, the total number of students at that grade level is \\(\\boxed{80}\\).",
+    "answer": "Twenty students represent 1 - 3/4 = 1/4 of the students at that level.\nSo, there are 4 x 20 students = <<4*20=80>>80 students at that level.\n#### 80"
+}

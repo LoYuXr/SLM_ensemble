@@ -1,0 +1,5 @@
+{
+    "question": "An apple orchard sells apples in bags of 10. The orchard sold a total of 2000 apples one day. How much did an orchard earn for selling this at $5 per bag?",
+    "completion": "To determine how much the orchard earned for selling the apples, we need to follow these steps:\n\n1. **Calculate the number of bags sold:**\n   The orchard sold a total of 2000 apples. Since each bag contains 10 apples, we can find the number of bags sold by dividing the total number of apples by the number of apples per bag:\n   \\[\n   \\text{Number of bags} = \\frac{2000 \\text{ apples}}{10 \\text{ apples per bag}} = 200 \\text{ bags}\n   \\]\n\n2. **Calculate the total earnings:**\n   Each bag is sold for $5. Therefore, the total earnings from selling 200 bags is:\n   \\[\n   \\text{Total earnings} = 200 \\text{ bags} \\times 5 \\text{ dollars per bag} = 1000 \\text{ dollars}\n   \\]\n\nThus, the orchard earned \\(\\boxed{1000}\\) dollars for selling the apples.",
+    "answer": "There were 2000/10 = <<2000/10=200>>200 bags of apples sold.\nTherefore, the orchard earned 200 x $5 = $<<200*5=1000>>1000.\n#### 1000"
+}

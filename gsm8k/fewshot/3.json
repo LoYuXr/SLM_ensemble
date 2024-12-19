@@ -1,0 +1,5 @@
+{
+    "question": "James decides to run 3 sprints 3 times a week.  He runs 60 meters each sprint.  How many total meters does he run a week?",
+    "completion": "To determine the total number of meters James runs in a week, we need to follow these steps:\n\n1. Calculate the distance James runs in one sprint.\n2. Multiply the distance of one sprint by the number of sprints he runs in a week.\n\nFirst, we know that James runs 60 meters in each sprint. He runs 3 sprints each week. Therefore, the distance he runs in one week is:\n\\[ 60 \\text{ meters/sprint} \\times 3 \\text{ sprints/week} = 180 \\text{ meters/week} \\]\n\nSo, the total distance James runs in a week is:\n\\[ \\boxed{180} \\]",
+    "answer": "He sprints 3*3=<<3*3=9>>9 times\nSo he runs 9*60=<<9*60=540>>540 meters\n#### 540"
+}

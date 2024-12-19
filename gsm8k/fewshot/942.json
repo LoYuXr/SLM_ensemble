@@ -1,0 +1,5 @@
+{
+    "question": "Patty's Plumbing charges $40 to visit a house to make a repair, plus $35 per hour, or part thereof, for labor, plus parts. One job took 2.25 hours and used $60 in parts. How much did Patty charge?",
+    "completion": "To determine Patty's Plumbing's charge for the job, we need to break down the costs and then sum them up. Here's the step-by-step process:\n\n1. **Identify the base cost for visiting a house:**\n   The base cost for visiting a house is $40.\n\n2. **Identify the cost for labor:**\n   The labor cost is $35 per hour, and the job took 2.25 hours. Therefore, the labor cost is:\n   \\[\n   35 \\times 2.25 = 83.75\n   \\]\n\n3. **Identify the additional cost for parts:**\n   The additional cost for parts is $60.\n\n4. **Calculate the total charge:**\n   The total charge is the sum of the base cost, the labor cost, and the additional cost for parts:\n   \\[\n   40 + 83.75 + 60 = 183.75\n   \\]\n\nTherefore, Patty's Plumbing's charge for the job is \\(\\boxed{183.75}\\).",
+    "answer": "She charged for 3 hours.\nThe total cost from the hourly rate was 3*35=$<<3*35=105>>105.\nShe charged 40+105+60=<<40+105+60=205>>205.\n#### 205"
+}

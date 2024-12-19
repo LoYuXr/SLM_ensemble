@@ -1,0 +1,5 @@
+{
+    "question": "Bill starts on the 3rd floor. He rides the elevator up to the floor that's equal to 4 times his starting floor plus 6. What floor is Bill on now?",
+    "completion": "To determine the floor Bill is on, we need to follow the sequence of events step by step.\n\n1. **Starting Floor**: Bill starts on the 3rd floor.\n2. **Elevator Movement**: The elevator moves up to the floor that is equal to 4 times his starting floor plus 6.\n\nFirst, calculate 4 times the starting floor:\n\\[ 4 \\times 3 = 12 \\]\n\nNext, add 6 to this result:\n\\[ 12 + 6 = 18 \\]\n\nSo, the elevator moves up to the 18th floor.\n\nTherefore, the floor Bill is on now is \\(\\boxed{18}\\).",
+    "answer": "First multiply Bill's starting floor number by 4: 3 * 4 = <<3*4=12>>12\nThen add six to find the ending floor Bill is on: 12 + 6 = <<12+6=18>>18\n#### 18"
+}

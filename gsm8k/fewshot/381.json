@@ -1,0 +1,5 @@
+{
+    "question": "Cho hiked 14 kilometers per hour for 8 hours. Chloe hiked 9 kilometers per hour and stopped after 5 hours. How many kilometers farther did Cho hike?",
+    "completion": "To determine how many kilometers farther Cho hiked compared to Chloe, we need to calculate the distance each person hiked and then find the difference.\n\nFirst, let's calculate the distance Cho hiked:\n- Cho hiked at a speed of 14 kilometers per hour.\n- Cho hiked for 8 hours.\n- Distance = Speed \u00d7 Time = 14 km/h \u00d7 8 h = 112 kilometers.\n\nNext, let's calculate the distance Chloe hiked:\n- Chloe hiked at a speed of 9 kilometers per hour.\n- Chloe hiked for 5 hours.\n- Distance = Speed \u00d7 Time = 9 km/h \u00d7 5 h = 45 kilometers.\n\nNow, we find the difference in the distances hiked by Cho and Chloe:\n- Difference = Distance hiked by Cho - Distance hiked by Chloe = 112 km - 45 km = 67 kilometers.\n\nTherefore, Cho hiked \\(\\boxed{67}\\) kilometers farther than Chloe.",
+    "answer": "Cho = 14 * 8 = <<14*8=112>>112 km\nChloe = 9 * 5 = <<9*5=45>>45 km\n112 - 45 = <<112-45=67>>67 km\nCho hiked 67 kilometers farther than Chloe.\n#### 67"
+}
